@@ -1,0 +1,356 @@
+#+TITLE: Pharos
+#-DESCRIPTION: Homepage und Blog von Annette von Stockhausen
+#+DATE: 2012-07-02 11:06:10
+#+LANGUAGE: de
+#+PUBLISH_DIR: /Users/stockhausen/Sites/Homepage
+#+STARTUP: logdone
+
+#+TEMPLATE_DIR: templates
+#+URL: http://pharos.bitbucket.org/
+#+DEFAULT_CATEGORY: blog
+#+FILENAME_SANITIZER: ob-sanitize-string
+#+POST_SORTER: ob-sort-posts-by-title
+#+POST_BUILD_SHELL: cmd 1
+#+POST_BUILD_SHELL: cmd 2
+#+POST_BUILD_SHELL: cmd 3
+#+POST_BUILD_SHELL: cmd 4
+
+* Blog details
+** Copyright
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+Copyright © 2012
+[[mailto:%61%6E%6E%65%74%74%65%40%76%6F%6E%73%74%6F%63%6B%68%61%75%73%65%6E%2E%65%75][Annette
+von Stockhausen]], Vierzigmannstr. 12, 91054 Erlangen, Tel. 09131-9209175.
+Alle inhaltlichen Beiträge sind veröffentlicht unter der 
+[[http://creativecommons.org/licenses/by-sa/3.0/de/][Creative Commons
+Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz]].
+
+** About
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+In diesem Blog schreibt [[mailto:%61%6E%6E%65%74%74%65%40%76%6F%6E%73%74%6F%63%6B%68%61%75%73%65%6E%2E%65%75][Annette
+von Stockhausen]] über Patristik, Handschriften und andere Dinge, die
+im Fokus von Forschung und Lehre stehen.
+
+** Navigation
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+- [[#][/icon-user icon-white/ Annette von Stockhausen]]
+  - [[file:{lisp}(ob:path-to-root){/lisp}/vita.html][Vita]]
+  - [[file:{lisp}(ob:path-to-root){/lisp}/publikationen.html][Publikationen]]
+  - [[file:{lisp}(ob:path-to-root){/lisp}/projekte.html][Projekte]]
+  - [[file:{lisp}(ob:path-to-root){/lisp}/lehrveranstaltungen.html][Lehrveranstaltungen]]
+
+- [[file:{lisp}(ob:path-to-root){/lisp}/tags.html][/icon-tags icon-white/ Schlagworte]]
+
+- [[file:{lisp}(ob:path-to-root){/lisp}/archives.html][/icon-list icon-white/ Archiv]]
+
+- [[file:{lisp}(ob:path-to-root){/lisp}/index.xml][/icon-rss icon-white/ RSS]]
+
+- [[file:{lisp}(ob:path-to-root){/lisp}/links.html][/icon-link icon-white/ Links]]
+
+** Navigation Footer
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+  - [[file:{lisp}(ob:path-to-root){/lisp}/index.html][/icon-home icon-white/ {lisp}(ob:gettext :home){/lisp}]]
+
+  - [[file:{lisp}(ob:path-to-root){/lisp}/tags.html][/icon-tags icon-white/ Schlagworte]]
+
+  - [[file:{lisp}(ob:path-to-root){/lisp}/archives.html][/icon-list icon-white/ Archiv]]
+
+  - [[file:{lisp}(ob:path-to-root){/lisp}/index.xml][/icon-rss icon-white/ RSS]]
+
+  - [[file:{lisp}(ob:path-to-root){/lisp}/links.html][/icon-link icon-white/ Links]]
+
+** Articles by tags
+  :PROPERTIES:
+  :PAGE:     tags.html
+  :TEMPLATE: blog_post-by-tags.html
+  :END:
+
+* Startseite
+  :PROPERTIES:
+  :PAGE:     index.html
+  :TEMPLATE: blog_static_no_title.html
+  :END:
+
+#+begin_o_blog_row 8
+
+#+begin_o_blog_hero_unit
+#+HTML: <h1>Pharos</h1>
+
+Notizen und Fundstücke aus Forschung und Lehre.
+#+end_o_blog_hero_unit
+
+#+o_blog_row_column 4
+
+
+#+HTML: <div class="hero-unit">
+#+HTML: <h2>Annette von Stockhausen</h2>
+
+[[file:{lisp}(ob:path-to-root){/lisp}/vita.html][/icon-user icon-white/ Vita]]
+
+[[file:{lisp}(ob:path-to-root){/lisp}/publikationen.html][/icon-book icon-white/ Publikationen]]
+
+[[file:{lisp}(ob:path-to-root){/lisp}/projekte.html][/icon-paper-clip icon-white/ Projekte]]
+
+[[file:{lisp}(ob:path-to-root){/lisp}/lehrveranstaltungen.html][/icon-hand-up icon-white/ Lehrveranstaltungen]]
+
+[[https://twitter.com/#!/Stocki_][/icon-twitter icon-white/ Twitter]] 
+
+[[https://plus.google.com/115193474134799916257/posts][/icon-google-plus icon-white/ Google+]]
+
+#+HTML: </div>
+
+#+end_o_blog_row
+
+* Vita
+  :PROPERTIES:
+  :PAGE:     vita.html
+  :END:
+
+  #+ATTR_HTML: style="float:right;margin:20px;" width="95" height="115" title="Bild von Annette von Stockhausen (Photo: Roman Heimhuber)"
+  [[file:images/Annette-Photo-Roman_Heimhuber.jpg]]
+  ∗ 1972
+
+1991–1997 Studium Ev. Theologie, Gräzistik und Geographie in Erlangen, Heidelberg und Jerusalem
+
+1991–1998 Stipendiatin der Studienstiftung des deutschen Volkes
+
+1998–2000 Graduiertenkolleg »Leitbilder der Spätantike« (Jena)
+
+2000 Promotion zum Dr.theol mit der Dissertation »Untersuchungen zur Spätzeit des Athanasius von Alexandrien. Vorläufige Edition, Einleitung, Übersetzung und Kommentar der Epistula ad Afros« (Erlangen-Nürnberg).
+
+Juli 2000–Oktober 2003 Wissenschaftliche Mitarbeiterin DFG-Projekt [[http://www.athanasius.uni-erlangen.de][»Edition Athanasius Werke«]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
+
+2001 Promotionspreis der Staedtler-Stiftung
+
+November 2003–Oktober 2004 Stipendium im Rahmen der Frauenförderung im HWP
+
+Seit November 2004 Wissenschaftliche Mitarbeiterin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] und am DFG-Projekt [[http://www.athanasius.theologie.uni-erlangen.de][»Edition Athanasius Werke«]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
+
+Oktober 2007–September 2008 Junior Fellow am [[http://www.wiko-greifswald.de/][Alfried Krupp Wissenschaftskolleg in Greifswald]]
+
+Oktober 2008 Wissenschaftliche Mitarbeiterin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] und am DFG-Projekt [[http://www.athanasius.theologie.uni-erlangen.de][»Edition Athanasius Werke«]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
+
+Seit November 2008 Assistentin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
+
+April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goettingen.de/de/kirchengeschichte/55217.html][Kirchengeschichte (Patristik) an der Georg-August-Universität Göttingen]]
+
+* Publikationen
+ :PROPERTIES:
+ :PAGE:     publikationen.html
+ :END:
+
+** Monographien
+  * Brennecke, H. C./U. Heil/Ch. Müller/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/New York 2012 (in Vorbereitung). 
+  * Brennecke, H. C./U. Heil/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 3: Bis zur Ekthesis makrostichos, Berlin/New York 2007.
+  * Brennecke, H. C./U. Heil/A. von Stockhausen, Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum, Berlin/New York 2006.
+  * Stockhausen, A. von, Athanasius von Alexandrien. Epistula ad Afros. Einleitung, Kommentar und Übersetzung (Patristische Texte und Studien 56), Berlin/New York 2002.
+** Herausgeberschaft
+  * Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010.
+  * Brennecke, H. C., Ecclesia est in re publica. Studien zur Kirchen- und Theologiegeschichte im Kontext des Imperium Romanum, hg. v. U. Heil/A. von Stockhausen/J. Ulrich (Arbeiten zur Kirchengeschichte 100), Berlin/New York 2007.
+  * Schubert, C./A. von Stockhausen (Hrsg.), Ad veram religionem reformare. Frühchristliche Apologetik zwischen Anspruch und Wirklichkeit (Erlanger Forschungen A 109), Erlangen 2006. 
+
+** Beiträge in Zeitschriften
+  * Stockhausen, A. von, Athanasius in Antiochien, in: Zeitschrift für antikes Christentum 10 (2006), 86–102.
+  * Stockhausen, A. von, Katalog der griechischen Handschriften im Besitz der Thüringer Universitäts- und Landesbibliothek    Jena, in: Byzantinische Zeitschrift 94 (2001), 684–701 (+ Taf.).
+
+** Beiträge in Sammelbänden
+  * Stockhausen, A. von, Insights into the Christian Office in Late Antiquity, in: Homolka, W./H.-G. Schöttler (Hrsg.), Rabbi - Pastor - Priest. Their Roles and Profiles Through the Ages (Studia Judaica 64), Berlin/New York 2012 (im Druck).
+  * Stockhausen, A. von/Eberhardt, B., Joel, in: Septuaginta deutsch. Das griechische Alte Testament in Übersetzung – Kommentarband, Stuttgart: Deutsche Bibelgesellschaft 2011, 2381–2387. 
+  * Stockhausen, A. von, Die pseud-athanasianische Disputatio contra Arium. Eine Auseinandersetzung mit »arianischer« Theologie in Dialogform, in: Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010, 133-155.
+  * Stockhausen, A. von, Die pseud-athanasianische Homilia de semente. Einleitung, Text und Übersetzung, in: Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010, 157-203.
+  * Stockhausen, A. von, Einblicke in die Geschichte der »Athanasius Werke«. Die Briefe Hans-Georg Opitz’ an Eduard Schwartz, in: Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010, 207-304.
+  * Brennecke, H. C./von Stockhausen, A., Die Edition der »Athanasius Werke«, in: Neuhaus, H. (Hg.), Erlanger Editionen. Grundlagenforschung durch Quelleneditionen: Berichte und Studien, Erlanger Studien zur Geschichte 8, Erlangen/Jena 2009, 151–171.
+  * Stockhausen, A. von, Christian Perception of Jewish Preaching in Early Christianity?, in: Preaching in Judaism and Christianity. Encounters and Developments from Biblical Times to Modernity, hg. v. A. Deeg/W. Homolka/H.-G. Schöttler (Studia Judaica / Forschungen zur Wissenschaft des Judentums 41), Berlin/New York 2008, 49–70.
+  * Stockhausen, A. von/B. Eberhardt/A. Deeg, Joel, in: Septuaginta deutsch. Das griechische Alte Testament in Übersetzung, Stuttgart 2008, 1191–1194.
+  * Stockhausen, A. von, Ein »neues Lied«? Der Protreptikos des Klemens von Alexandrien, in: Ad veram religionem reformare. Frühchristliche Apologetik zwischen Anspruch und Wirklichkeit, hg. v. C. Schubert/A. von Stockhausen (Erlanger Forschungen A 109), Erlangen 2006, 75–96.
+  * Stockhausen, A. von, Über die Übersetzungstechnik der Joel-Septuaginta und ihre Konsequenzen für die Übersetzung des Joel-Buches im Rahmen der Septuaginta Deutsch, in: Im Brennpunkt: Die Septuaginta. Studien zur Entstehung und Bedeutung der Griechischen Bibel. Band 2, hg. v. S. Kreuzer/J. Lesch (BWANT 161), Stuttgart 2004, 259–268.
+  * Stockhausen, A. von, Einige Anmerkungen zur Epistula ad Constantiam des Euseb von Caesarea, in: Die ikonoklastische Synode von Hiereia 754, hg. v. T. Krannich/C. Schubert/C. Sode (STAC 15), Tübingen 2002, 92–112.
+
+** Beiträge in Lexika
+  * Stockhausen, A. von, Christoph Althofer (1606-1660), in: W. W. Schnabel (Hrsg.), Athena Norica. Bilder und Daten zur Geschichte der Universität Altdorf (gff digital, Reihe A: Digitalisierte Quellen 3), Nürnberg 2012, Nr. G1270.
+  * Stockhausen, A. von, Theodor Hackspan (1607-1659), in: W. W. Schnabel (Hrsg.), Athena Norica. Bilder und Daten zur Geschichte der Universität Altdorf (gff digital, Reihe A: Digitalisierte Quellen 3), Nürnberg 2012, Nr. G1290.
+  * Stockhausen, A. von, Johann Saubert d. J. (1638-1688), in: W. W. Schnabel (Hrsg.), Athena Norica. Bilder und Daten zur Geschichte der Universität Altdorf (gff digital, Reihe A: Digitalisierte Quellen 3), Nürnberg 2012, Nr. G1340.
+  * Stockhausen, A. von, Christoph Friedrich Tresenreuter (1709-1746), in: W. W. Schnabel (Hrsg.), Athena Norica. Bilder und Daten zur Geschichte der Universität Altdorf (gff digital, Reihe A: Digitalisierte Quellen 3), Nürnberg 2012, Nr. G1450.
+  * Stockhausen, A. von, A. I. Textüberlieferung: Handschriften und frühe Drucke, in: Gemeinhardt, P. (Hg.), Athanasius-Handbuch, Tübingen 2011, 2–8. 
+  * Stockhausen, A. von, C. I. 4.3. Epistula ad Rufinianum, in: Gemeinhardt, P. (Hg.), Athanasius-Handbuch, Tübingen 2011, 235–238.
+  * Stockhausen, A. von, C. I. 4.4. Epistula ad Jovinianum, in: Gemeinhardt, P. (Hg.), Athanasius-Handbuch, Tübingen 2011, 238–241. 
+  * Stockhausen, A. von, C. I. 4.5. Epistula ad Afros, in: Gemeinhardt, P. (Hg.), Athanasius-Handbuch, Tübingen 2011, 241–244. 
+  * Stockhausen, A. von, Pseudepigraphie. III. Kirchengeschichtlich, in: Lexikon der Bibelhermeneutik, hg. v. O. Wischmeyer, Berlin/New York 2009, 468.
+  * Stockhausen, A. von, Quelle. III. Kirchengeschichtlich, in: Lexikon der Bibelhermeneutik, hg. v. O. Wischmeyer, Berlin/New York 2009, 473 f.
+
+** Rezensionen
+  * Sara Parvis, Marcellus of Ancyra and the Lost Years of the Arian Controversy 325–345. Oxford Early Christian Studies. Oxford, Oxford University Press 2006, in: Byzantinische Zeitschrift 102 (2009) 803–805.
+  * Nicéphore Blemmydès: Œuvres théologiques. Tome 1. Introduction, texte critique, traduction et notes par M. Stavrou. Paris: Cerf 2007, in: Theologische Literaturzeitung 134 (2009) 318 f.
+  * Thomas Graumann, Die Kirche der Väter. Vätertheologie und Väterbeweis in den Kirchen des Ostens bis zum Konzil von Ephesus (431). Beiträge zur historischen Theologie, 118, in: Byzantinische Zeitschrift 99 (2006), 657–660.
+  * Günther Christian Hansen (Hrsg.), Anonyme Kirchengeschichte (Gelasius Cyzicenus, CPG 6034). Die Griechischen Christlichen Schriftsteller der ersten Jahrhunderte, in: Byzantinische Zeitschrift 99 (2006), 244–246.
+  * Martin Wallraff, Christus Verus Sol. Sonnenverehrung und Christentum in der Spätantike. [Jahrbuch für Antike und Christentum, Ergänzungsband 32.] In: Byzantinische Zeitschrift 96 (2003), 796–799.
+  * Nathan K.K Ng, The Spirituality of Athanasius. A Key for Proper Understanding of this Important Church Father. Europäische Hochschulschriften, Reihe 23, 733, Bern u.a., Lang 2001, in: Theologische Literaturzeitung 129 (2004), 806 f.
+  * Maximi Confessoris Liber Asceticus ed. P. Van Deun adiectis tribus interpretationibus latinis sat antiquis editis a Steven Gysens, in: Byzantinische Zeitschrift 95 (2002), 171–173.
+
+* Projekte
+ :PROPERTIES:
+ :PAGE:     projekte.html
+ :END:
+
+** Kommentierung des Protreptikos des Clemens Alexandrinus (für: Kommentar der frühchristlichen Apologeten [Freiburg, Herder]).
+   Klemens von Alexandrien (Mitte des 2. bis Anfang des 3. Jahrhunderts) ist einer der herausragenden Vertreter des Christentums seiner Zeit. Wohl aus Athen stammend und ausgestattet mit einer gründlichen klassischen und philosophischen Grundbildung hatte er im Gang seiner weiteren Ausbildung fast den gesamten Mittelmeerraum bereist und sich schließlich als Lehrer in Alexandrien (und später in Jerusalem) niedergelassen.
+
+Er vereint in sich heidnische literarische-philosophische Bildung auf der Höhe seiner Zeit und christliche Lehre. Unter den früheren christlichen Autoren ragt er mit seiner Bildung und seinem literarischen Anspruch heraus, indem er die christliche Literatur auf das Niveau der zeitgenössischen Kunstprosa hebt.
+
+In gleicher Weise befindet sich auch seine Theologie auf der Höhe des zeitgenössischen philosophischen Diskurses: Sein Programm ist eine »kontextuelle« Theologie im besten Sinne des Wortes. Er bietet ein Argumentationsgefüge sowohl gegen Christen, die von der Einbindung der Theologie in den kulturellen Kontext der Umwelt und ihre Ausdrucksformen nichts wissen wollen, als auch gegen Heiden, die Christen für minderbemittelt bzw. das Christentum für barbarisch oder kulturlos halten. Auf diese Weise ist er (neben Euseb von Caesarea) einer der antiken christlichen Autoren, die in hohem Maße antike Literatur in die eigene Argumentation durch Zitation einbinden und dabei zugleich die antike Tradition umformen.
+
+Eine der überlieferten Schriften des Klemens ist der »Protreptikos« (Mahnrede) an die Heiden. Sie ist eine christliche Missions- und Werbeschrift, deren Ziel die Abkehr ihrer Adressaten von der Unmoral und Torheit des Götterglaubens, die Bekehrung zum Christentum als der wahren Philosophie und damit die Bekehrung zum wahren »Logos« Christus ist.
+
+Verankert in der Gattung der Apologetik, der Verteidigung des Christentums gegen heidnische Vorwürfe und Anklagen, setzt sich Klemens in erster Linie mit den griechischen Kulten und der griechischen Mythologie auseinander, wobei er durchaus auch die heidnisch-philosophische Kritik an dieser zu Hilfe nimmt, ohne dass dadurch eine gleichzeitige positive Aufnahme z. B. der heidnischen Mysterientheologie als Ausdrucksrahmen für die christliche Botschaft ausgeschlossen wäre.
+
+Klemens und sein Protreptikos stehen somit an der Schnittstelle zwischen Heidentum und Christentum: Er versucht, zwei Welten miteinander zu verbinden, indem er die christliche Botschaft in der Sprache der heidnischen Philosophie ausdrückt, ohne das eigene Proprium aus den Augen zu verlieren.
+
+Beim Projekt geht es nun darum, diesen Text, der an der Schnittstelle von antiker (heidnischer) Tradition und sich ausbildendem Christentum steht und der daher über die Inkulturationsprozesse der alten Kirche in die heidnische Gesellschaft mit ihren literarischen, philosophischen und kulturellen Traditionen und deren Umformung durch das Christentum Aufschluß gibt, zu kommentieren.
+
+Im Kommentar sollen die auf Grund der Überlieferungslage vielfach anzutreffenden problematischen Textstellen geklärt, der Text in seinen literarischen und historischen Kontext eingeordnet, die Methodik, mit der Klemens Nicht-Christen zum Christentum bewegen will, untersucht und die im Protreptikos sichtbar werdenden theologischen Aussagen herausgestellt werden.
+
+Über den Erkenntnisgewinn für die theologische Einordnung des Klemens von Alexandrien und für die Entwicklungsgeschichte des Christentums an der Wende vom 2. zum 3. Jahrhundert hinaus sind auch weiterführende Ergebnisse über die antike literarische Gattung des Protreptikos, ihre Methoden und Argumentationsformen zu erwarten, da mit dem Protreptikos des Klemens eine der wenigen erhaltenen Exemplare dieser wichtigen Gattung vorliegt.
+** [[http://www.athanasius.theologie.uni-erlangen.de/dokumente2][Athanasius Werke. Dritter Band / Erster Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/New York (zusammen mit H.C. Brennecke, U. Heil, Christian Müller und A. Wintjes)]]
+** Euseb von Caesarea, Kirchengeschichte, Fontes Christiani (zusammen mit H.C. Brennecke)
+* Lehrveranstaltungen
+ :PROPERTIES:
+ :PAGE:     lehrveranstaltungen.html
+ :END:
+
+** Wintersemester 2012/13 (geplant)
+   - Übung: Der Sinai – Märtyrer, Mönche, Manuskripte
+   - Übung: Mission zum Christentum? Der Protreptikos des Klemens von Alexandrien
+   - Oberseminar: Dokumente zum arianischen Streit (zusammen mit H.C. Brennecke)
+** Sommersemester 2012
+   - Proseminar: Die Abgar-Legende – Christentum im römisch-persischen Grenzbereich
+   - Vorlesung: Kirchengeschichte im Überblick
+   - Übung: Patristische Lektüre – Athanasius, Apologia ad Constantium
+** Wintersemester 2011/12 
+- Übung: Helena, Egeria, Melania d.Ä. und d.J., Paula und Eustochium – Pilgerinnen im »Heilige Land« 
+- Übung: (Kirchengeschichtliche) Datenbanken und Literaturverwaltung
+- Vorlesung/Übung: Grundkurs
+** Sommersemester 2011 
+- Proseminar: Augustin, Confessiones
+- Übung: Walter Grundmann und das »Institut zur Erforschung des jüdischen Einflusses auf das deutsche kirchliche Leben«
+- Übung: Lektüre griechischer patristischer Texte 
+** Wintersemester 2010/11 
+- Hauptseminar: Kirche und Theologie im Zeitalter Karls d. Gr.
+- Vorlesung: Kirchengeschichte im Überblick
+- Übung: Bischöfliche Repräsentation in Rom und Ravenna (zusammen mit U. Verstegen)
+** Sommersemester 2010 (Uni Göttingen) 
+- Vorlesung: Kirchengeschichte (Mittelalter)
+- Hauptseminar: Arianischer Streit
+- Oberseminar: Athanasius (zusammen mit P. Gemeinhardt)
+- Übung: Spuren christlichen Lebens in spätantiken Papyri
+** Wintersemester 2009/2010 
+- Übung: Lektüre zentrale Texte der Kirchengeschichte: Die Regula Benedicti
+- Übung (mit Exkursion): Kirchengeschichte des »Heiligen Landes«
+** Sommersemester 2009 
+- Proseminar: Athanasius von Alexandrien
+- Proseminar: Montanismus
+- Übung: Lektüre griechischer patristischer Texte
+** Wintersemester 2008/2009 
+- Übung: Predigt in der Alten Kirche
+- Übung: Gestalten der fränkischen Kirchengeschichte: Otto von Bamberg
+- Oberseminar: Dokumente zum arianischen Streit (zusammen mit H.C. Brennecke)
+** Sommersemester 2008 
+- Exkursion: »Heiliges« Land. Theologische, historische und archäologische Perspektiven (zusammen mit A. Deeg)
+- Übung: Die Anfänge der Kirchengeschichtsschreibung (Euseb von Caesare) (Uni Greifswald)
+** Sommersemester 2007 
+- Übung: Frühchristliche Apologetik (Klemens von Alexandrien, Protreptikos)
+- Übung: Sepphoris/Zippori - Jüdisches Leben in Galiläa zwischen Jesus und Talmud (zusammen mit A. Deeg)
+- Forschungskolloquium: Syrien (zusammen mit Kollegen aus den Fächern Kirchengeschichte, Christliche Archäologie, Neues Testament)
+** Wintersemester 2006/2007 
+- Grundkurs (zusammen mit P. Bubmann, A. Deeg, A. Heron)
+** Sommersemester 2006 
+- Proseminar: Einführung in die Methoden der Kirchengeschichte
+- Forschungskolloquium: Judentum in Kleinasien (zusammen mit Kollegen aus den Fächern Kirchengeschichte, Christliche Archäologie, Neues Testament)
+** Wintersemester 2005/2006 
+- Übung: Die erste Kirchengeschichte
+** Sommersemester 2005 
+- Übung: Augustinus, Confessiones (zusammen mit Ch. Schubert)
+- Forschungskolloquium: Frühes Christentum im Negev: Der Prozess der Christianisierung (zusammen mit Kollegen aus den Fächern Kirchengeschichte, Christliche Archäologie, Neues Testament)
+- Übung: Rabbinische Gleichnisse und Gleichnisse Jesu (zusammen mit A. Deeg)
+** Wintersemester 2004/2005 
+- Proseminar: Einblicke in die Kirchengeschichte Jerusalems
+** Sommersemester 2004 
+- Übung: Der Kampf um die Seelen. Frühchristliche Apologetik vs. heidnische Christentumskritik am Beispiel von Minucius Felix, Octavius (zusammen mit Ch. Schubert)
+- Übung: Lektüre rabbinischer Texte - Der Mischna-Traktat über den Götzendienst (Avoda Zara) (zusammen A. Deeg und B. Eberhardt)
+** Wintersemester 2003/2004 
+- Übung: Spuren christlichen Alltags in spätantiken Papyri
+- Übung: Rabbinische Lektüre: Ausgewählte halachische Diskussionen im Traktat Bawa Metzia (zusammen mit A. Deeg und B. Eberhardt)
+** Sommersemester 2003 
+- Übung: 1453 - Die Eroberung Konstantinopels und ihre Folgen (zusammen mit E. Weber)
+- Übung: Rabbinische Lektüre: Der Talmud (zusammen mit A. Deeg)
+** Wintersemester 2002/2003 
+- Übung: Frühchristliche Apokalyptik am Beispiel von Commodians Apologeticum (zusammen mit Ch. Schubert)
+- Übung: Abraham im Spiegel rabbinischer Auslegung (zusammen mit A. Deeg)
+** Sommersemester 2002 
+- Übung: Rabbinische Lektüre: Midrasch Schmot Rabba (zusammen mit A. Deeg)
+** Wintersemester 2001/2002 
+- Übung: Lektüre rabbinischer Texte (zusammen mit A. Deeg)
+* Links
+ :PROPERTIES:
+ :PAGE:     links.html
+ :END:
+
+  - [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i/dr-annette-von-stockhausen.html][Fachbereich Theologie – Dr. Annette von Stockhausen]]
+  - [[http://www.athanasius.theologie.uni-erlangen.de/][Edition Athanasius Werke]]
+  - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen][Academia.edu]]
+  - [[https://www.facebook.com/avonstockhausen][Facebook]]
+  - [[https://www.zotero.org/avs][Zotero]]
+  - [[http://www.bibsonomy.org/user/avs][Bibsonomy]]
+
+* Blog
+
+** Cod. Parisinus Arm. Paris BNF - Bibliothèque de l'Arsen 663
+** DONE Neuentdeckt und digitalisiert: Monacensis gr. 314 :Origenes:Handschriften:
+   CLOSED: [2012-06-11 Mo 17:32]
+
+  BSB Cod.graec. 314 mit der griechischen (Original-)Fassung der Psalmen-Homilien des Origenes, vgl. die [[http://www.bsb-muenchen.de/Einzeldarstellung.402+M53f1166a989.0.html][Pressemeldung der BSB München]]
+
+  #+CAPTION: BSB Cod. graec. 314, f. 1r
+  [[http://daten.digitale-sammlungen.de/bsb00050972/image_7][file:../../../images/BSB-graec-314.png]]
+
+  Update 20.6.2012: Weitere Informationen bietet Lorenzo Perrone in einem [[http://oxfordpatristics.blogspot.de/2012/06/lost-homilies-on-psalms-by-origen.html][offenen Brief]].
+
+  Update 28.6.2012: Nähere Informationen finden sich in [[http://unibo.academia.edu/LorenzoPerrone/Papers/1758098/Riscoprire_Origene_oggi_prime_impressioni_sulla_raccolta_di_omelie_sui_Salmi_nel_Codex_Monacensis_Graecus_314][Lorenzo Perrone, Riscoprire Origene oggi: Prime impressioni sulla raccolta di Omelie sui Salmi nel Codex Monacensis Graecus 314]] (Preprint aus Adamantius 18, 2012).
+
+** DONE Digitalisiert: Parisinus gr. 510    :GregorNazianzenus:Handschriften:
+   CLOSED: [2012-05-06 So 20:29]
+
+  http://gallica.bnf.fr/ark:/12148/btv1b84522082/f1.item
+
+  Eine Handschrift für Basilius I. und seine Familie aus der Zeit zwischen 879 und 882 ([[http://books.google.de/books?id=LAUMM3cU_UoC&lpg=PP1&hl=de&pg=PA55#v=onepage&q&f=false][Brubaker]]) mit den  Homilien des Gregor von Nazianz
+
+** DONE Eine Reise im September von Alexandria nach Antiochia :Athanasius:Geographie:
+   CLOSED: [2012-05-04 Fr 20:34]
+
+ [[http://orbis.stanford.edu/][»ORBIS – The Stanford Geospatial Network Model of the Roman World«]] bietet nun die Möglichkeit, Reisewege, -zeiten und -kosten zu berechnen:
+
+  [[file:../../../images/Orbis-Alexandria.png]]
+
+  Müssen wir uns so also die Reise des Athanasius nach Antiochien im Herbst 363 vorstellen?
+
+** DONE Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien in lateinischer Übersetzung :Athanasius:GoogleBooks:
+   CLOSED: [2012-04-20 Fr 00:13]
+
+  [[http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP4#v=onepage&q&f=true][file:../../../images/Athanasius-1572.png]]
+
+  Es handelt sich um: [[http://opacplus.bsb-muenchen.de/search?oclcno=165533560][Divi Athanasii Alexandrini Vero Episcopi Opera Omnia, quae quidem hactenus latinitate donata sunt Untertitel: quam fieri potuit adcuratissime castigata, tum emendationibus amplius trecentis … recens locupletata … Accesserunt Ad Haec Nuper Varia Eiusdem opuscula, aeditioni tum Gallicae, tum Germanicae, utpote Knobloci, minus antehac inserta …, Lugduni: Trechsel 1572]]
+
+Jetzt frage ich mich nur noch, warum das Digitalisat bei [[http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP2#v=onepage&q&f=false][Google Books]] online in Farbe und auf dem [[http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10148823_00002.html][Dokumentenserver des Münchner Digitalisierungszentrums]] schwarz-weiß vorliegt – ganz abgesehen davon, daß die PDF-Datei bei Google Books (dann ebenfalls schwarz-weiß) erheblich kleiner ist.
+
+Bei Google Books gibt es übrigens noch ein zweites Digitalisat dieses Buches, dieses Mal aus der [[http://books.google.de/books?id=3kUE4wlckccC][Biblioteca de Catalunya]]. Hier war einer der Benutzer offensichtlich gegen-reformatorisch gestimmt: Auf der [[http://books.google.de/books?id=3kUE4wlckccC&hl=de&hl=de&pg=PP6&img=1&zoom=3&sig=ACfU3U2lNNJ8B6FzVJ9dkwaYfIYGfNeHzA&ci=109%2C82%2C670%2C244&edge=0][Rückseite des Titelblatts]] (und an allen weiteren Stellen, an denen sie vorkommen) sind die Namen des *Johannes Reuchlin* und des *Erasmus von Rotterdam* durchgestrichen.

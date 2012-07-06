@@ -6,7 +6,7 @@
 #+STARTUP: logdone
 
 #+TEMPLATE_DIR: templates
-#+URL: http://pharos.bitbucket.org/
+#+URL: http://pharos-alexandria.github.com/
 #+DEFAULT_CATEGORY: blog
 #+FILENAME_SANITIZER: ob-sanitize-string
 #+POST_SORTER: ob-sort-posts-by-title

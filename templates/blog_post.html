@@ -1,22 +1,22 @@
 <lisp>(ob:insert-template "page_header.html")</lisp>
   <header class="article-header">
 
-    <div class="well">
+    <div class="page-header">
       <div class="row">
 	<div class="date span1">
 	  <div class=" date-d"><lisp>(ob:format-date (ob:post-timestamp POST) "%d")</lisp></div>
 	  <div class=" date-m"><lisp>
 	      (format "<a href=\"%s/%s/%s/%s/index.html\">%s</a>"
 	      (ob:path-to-root)
-	      (ob:post-category POST)
+	      (ob:category-safe (ob:post-category POST))
 	      (ob:format-date (ob:post-timestamp POST) "%Y")
 	      (ob:format-date (ob:post-timestamp POST) "%m")
-	      (ob:format-date (ob:post-timestamp POST) "%m"))</lisp></div>
+	      (ob:format-date (ob:post-timestamp POST) "%b"))</lisp></div>
 	  <div class=" date-y"><lisp>
 	      <lisp>
 		(format "<a href=\"%s/%s/%s/index.html\">%s</a>"
 		(ob:path-to-root)
-		(ob:post-category POST)
+		(ob:category-safe (ob:post-category POST))
 		(ob:format-date (ob:post-timestamp POST) "%Y")
 		(ob:format-date (ob:post-timestamp POST) "%Y"))
 	      </lisp>

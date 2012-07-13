@@ -54,7 +54,7 @@ im Fokus von Forschung und Lehre stehen.
 
 - [[file:{lisp}(ob:path-to-root){/lisp}/index.xml][/icon-rss icon-white/ RSS]]
 
-- [[file:{lisp}(ob:path-to-root){/lisp}/links.html][/icon-link icon-white/ Links]]
+- [[#][/icon-link icon-white/ Links]]
   - [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i/dr-annette-von-stockhausen.html][Fachbereich Theologie – Dr. Annette von Stockhausen]]
   - [[http://www.athanasius.theologie.uni-erlangen.de/][Edition Athanasius Werke]]
   - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen][Academia.edu]]
@@ -63,6 +63,7 @@ im Fokus von Forschung und Lehre stehen.
   - [[https://www.zotero.org/avs][Zotero]]
   - [[http://www.bibsonomy.org/user/avs][Bibsonomy]]
   - [[https://www.facebook.com/avonstockhausen][Facebook]]
+  - [[https://github.com/pharos-alexandria/Vorlagen][LaTeX-Vorlagen]]
 
 ** Navigation Footer
   :PROPERTIES:

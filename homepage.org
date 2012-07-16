@@ -410,6 +410,8 @@ Eduard Schwartz hatte zu Beginn dieses Jahrhunderts eine mustergültige kritisch
 
   Update 28.6.2012: Nähere Informationen finden sich in [[http://unibo.academia.edu/LorenzoPerrone/Papers/1758098/Riscoprire_Origene_oggi_prime_impressioni_sulla_raccolta_di_omelie_sui_Salmi_nel_Codex_Monacensis_Graecus_314][Lorenzo Perrone, Riscoprire Origene oggi: Prime impressioni sulla raccolta di Omelie sui Salmi nel Codex Monacensis Graecus 314]] (Preprint aus Adamantius 18, 2012).
 
+  Update 16.7.2012: Vortrag von Lorenzo Perrone über die neuentdeckten Psalmen-Homilien des Origenes auf [[http://www.youtube.com/watch?v=s890BLlVvKg][YouTube]].
+
 ** DONE Digitalisiert: Parisinus gr. 510    :Gregor_Nazianzenus:Handschriften:
    CLOSED: [2012-05-06 So 20:29]
 

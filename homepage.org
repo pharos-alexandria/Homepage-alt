@@ -143,8 +143,8 @@ Notizen und Fundstücke aus Forschung und Lehre.
   :PAGE:     vita.html
   :END:
 
-  #+ATTR_HTML: style="float:right;margin:20px;" width="95" height="115" title="Bild von Annette von Stockhausen (Photo: Roman Heimhuber)"
-  [[file:images/Annette-Photo-Roman_Heimhuber.jpg]]
+  #+ATTR_HTML: style="float:right;margin:20px;" width="95" height="115" title="Bild von Annette von Stockhausen"
+  [[file:images/Annette.jpg]]
   ∗ 1972
 
 1991–1997 Studium Ev. Theologie, Gräzistik und Geographie in Erlangen, Heidelberg und Jerusalem
@@ -177,11 +177,13 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
  :END:
 
 ** Monographien
-  * Brennecke, H. C./U. Heil/Ch. Müller/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/New York 2012 (in Vorbereitung). 
+  * Brennecke, H. C./U. Heil/Ch. Müller/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/Boston 2012 (in Vorbereitung). 
   * Brennecke, H. C./U. Heil/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 3: Bis zur Ekthesis makrostichos, Berlin/New York 2007.
   * Brennecke, H. C./U. Heil/A. von Stockhausen, Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum, Berlin/New York 2006.
   * Stockhausen, A. von, Athanasius von Alexandrien. Epistula ad Afros. Einleitung, Kommentar und Übersetzung (Patristische Texte und Studien 56), Berlin/New York 2002.
 ** Herausgeberschaft
+  * Heil, U./Stockhausen A. v. (Hrsg.), Crux interpretum. Philologie und Patristik 100 Jahre nach Eduard Schwartz. Vorträge der Tagung zum 65. Geburtstag von Hanns Christof Brennecke, 17.-18. Februar 2012 (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur), Berlin/Boston 2013 (in Vorbereitung).
+  * Heil, U./Stockhausen A. v. (Hrsg.), Die Synoden im arianischen Streit. Vorträge des gleichnamigen Workshops auf der Sixteenth International Conference on Patristic Studies 8.-12. August 2011 (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur), Berlin/Boston 2013 (in Vorbereitung).
   * Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010.
   * Brennecke, H. C., Ecclesia est in re publica. Studien zur Kirchen- und Theologiegeschichte im Kontext des Imperium Romanum, hg. v. U. Heil/A. von Stockhausen/J. Ulrich (Arbeiten zur Kirchengeschichte 100), Berlin/New York 2007.
   * Schubert, C./A. von Stockhausen (Hrsg.), Ad veram religionem reformare. Frühchristliche Apologetik zwischen Anspruch und Wirklichkeit (Erlanger Forschungen A 109), Erlangen 2006. 
@@ -323,7 +325,7 @@ Eduard Schwartz hatte zu Beginn dieses Jahrhunderts eine mustergültige kritisch
  :PAGE:     lehrveranstaltungen.html
  :END:
 
-** Wintersemester 2012/13 (geplant)
+** Wintersemester 2012/13
    - Übung: Der Sinai – Märtyrer, Mönche, Manuskripte
    - Übung: Mission zum Christentum? Der Protreptikos des Klemens von Alexandrien
    - Oberseminar: Dokumente zum arianischen Streit (zusammen mit H.C. Brennecke)

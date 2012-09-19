@@ -123,7 +123,7 @@ Notizen und Fundstücke aus Forschung und Lehre.
 
 [[file:{lisp}(ob:path-to-root){/lisp}/lehrveranstaltungen.html][/icon-hand-up icon-white/ Lehrveranstaltungen]]
 
-[[https://twitter.com/#!/Stocki_][/icon-twitter icon-white/ Twitter]] 
+[[https://twitter.com/Stocki_][/icon-twitter icon-white/ Twitter]] 
 
 [[https://plus.google.com/115193474134799916257/posts][/icon-google-plus icon-white/ Google+]]
 
@@ -308,7 +308,7 @@ erlaubt schließlich durch die editorische Arbeit valide Erkenntnisse
 Okzident und die je spezifische Rezeption der christlichen Überlieferung
 bei diesen Prozessen.
 
-*** DONE Übersetzung der Kirchengeschichte des Euseb von Caesarea :Übersetzung:Kirchengeschichte:Euseb_Caesariensis:
+*** DONE Übersetzung der Kirchengeschichte des Euseb von Caesarea :Übersetzung:Kirchengeschichte:Eusebius_Caesariensis:
     CLOSED: [1998-01-01 Do 13:32]
     :PROPERTIES:
     :CATEGORY: Projekte
@@ -414,7 +414,7 @@ Eduard Schwartz hatte zu Beginn dieses Jahrhunderts eine mustergültige kritisch
 
   Update 16.7.2012: Vortrag von Lorenzo Perrone über die neuentdeckten Psalmen-Homilien des Origenes auf [[http://www.youtube.com/watch?v=s890BLlVvKg][YouTube]].
 
-** DONE Digitalisiert: Parisinus gr. 510    :Gregor_Nazianzenus:Handschriften:
+** DONE Digitalisiert: Parisinus gr. 510    :Gregorius_Nazianzenus:Handschriften:
    CLOSED: [2012-05-06 So 20:29]
 
   http://gallica.bnf.fr/ark:/12148/btv1b84522082/f1.item

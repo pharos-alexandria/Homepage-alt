@@ -190,7 +190,7 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
 
 ** Beiträge in Zeitschriften
   * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517090/Athanasius_in_Antiochien_in_Zeitschrift_fur_antikes_Christentum_10_2006_86-102][Stockhausen, A. von, Athanasius in Antiochien, in: Zeitschrift für antikes Christentum 10 (2006), 86–102.]]
-  * Stockhausen, A. von, Katalog der griechischen Handschriften im Besitz der Thüringer Universitäts- und Landesbibliothek    Jena, in: Byzantinische Zeitschrift 94 (2001), 684–701 (+ Taf.).
+  * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517097/Katalog_der_griechischen_Handschriften_im_Besitz_der_Thuringer_Universitats-_und_Landesbibliothek_Jena_in_Byzantinische_Zeitschrift_94_2001_684-701][Stockhausen, A. von, Katalog der griechischen Handschriften im Besitz der Thüringer Universitäts- und Landesbibliothek    Jena, in: Byzantinische Zeitschrift 94 (2001), 684–701 (+ Taf. XIII–XX).]]
 
 ** Beiträge in Sammelbänden
   * Stockhausen, A. von, Insights into the Christian Office in Late Antiquity, in: Homolka, W./H.-G. Schöttler (Hrsg.), Rabbi - Pastor - Priest. Their Roles and Profiles Through the Ages (Studia Judaica 64), Berlin/New York 2012, 41–53.
@@ -418,6 +418,7 @@ Eduard Schwartz hatte zu Beginn dieses Jahrhunderts eine mustergültige kritisch
    - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1992125/Martin_Wallraff_Christus_Verus_Sol._Sonnenverehrung_und_Christentum_in_der_Spatantike._Jahrbuch_fur_Antike_und_Christentum_Erganzungsband_32._Review_._Byzantinische_Zeitschrift_96_Nr._2_2004_796-799][Martin Wallraff, Christus Verus Sol. Sonnenverehrung und Christentum in der Spätantike. (Jahrbuch für Antike und Christentum, Ergänzungsband 32.) In: Byzantinische Zeitschrift 96 (2003), 796–799.]]
    - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1992141/Maximi_Confessoris_Liber_Asceticus_ed._P._VAN_DEUN_adiectis_tribus_interpretationibus_latinis_sat_antiquis_editis_a_Steven_Gysens_Review_._Byzantinische_Zeitschrift_95_Nr._1_2002_171-173][Maximi Confessoris Liber Asceticus ed. P. Van Deun adiectis tribus interpretationibus latinis sat antiquis editis a Steven Gysens, in: Byzantinische Zeitschrift 95 (2002), 171–173.]]
    - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517150/Einige_Anmerkungen_zur_Epistula_ad_Constantiam_des_Euseb_von_Caesarea_in_Die_ikonoklastische_Synode_von_Hiereia_754_hg._v._T._Krannich_C._Schubert_C._Sode_STAC_15_Tubingen_2002_92-112][Einige Anmerkungen zur Epistula ad Constantiam des Euseb von Caesarea, in: Die ikonoklastische Synode von Hiereia 754, hg. v. T. Krannich/C. Schubert/C. Sode (STAC 15), Tübingen 2002, 92–112.]]
+   - [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517097/Katalog_der_griechischen_Handschriften_im_Besitz_der_Thuringer_Universitats-_und_Landesbibliothek_Jena_in_Byzantinische_Zeitschrift_94_2001_684-701][Katalog der griechischen Handschriften im Besitz der Thüringer Universitäts- und Landesbibliothek    Jena, in: Byzantinische Zeitschrift 94 (2001), 684–701 (+ Taf. XIII–XX).]]
 
 ** DONE Neuentdeckt und digitalisiert: Monacensis gr. 314 :Origenes:Handschriften:
    CLOSED: [2012-06-11 Mo 17:32]

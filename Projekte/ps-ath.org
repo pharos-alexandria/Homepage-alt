@@ -1,0 +1,105 @@
+#+TITLE:     Athanasius Werke. Vierter Band (Lfg. 1): Die in den alten Sammlungen überlieferten Pseud-Athanasiana
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Pseudepigraphie, Athanasius Alexandrinus, Edition
+#+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke IV
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;"> Athanasius Werke. Vierter Band (Lfg. 1): Die in den alten Sammlungen überlieferten Pseud-Athanasiana</span></em></p>
+</div>
+#+END_HTML
+    Der alexandrinische Bischof Athanasius († 373) gehört zu den
+    prägenden Gestalten in der Kirchengeschichte des 4. Jahrhunderts.
+    Als »Leuchte der Orthodoxie« im trinitarischen Streit rankten sich
+    um seine Person schon bald zahlreiche Legenden. Seine Schriften
+    erhielten nahezu kanonischen Rang. Unter seinem Namen sind in den
+    vier großen spätantiken und mittelalterlichen, in Handschriften
+    überlieferten Sammlungen seiner Werke auch 20 Schriften
+    überliefert, die nach dem heutigen Stand der Forschung nicht von
+    ihm verfaßt worden sind. Diese Pseud-Athanasiana wurden von den
+    Zeitgenossen jedoch als »echte« autoritative Texte rezipiert und
+    haben sowohl das Bild des Athanasius als auch den Gang der
+    Kirchengeschichte mitbestimmt.
+
+    Das vorgeschlagene Projekt erstellt die erste systematische
+    kritische (und digitale) Edition und Kommentierung dieses
+    signifikanten Ausschnittes aus dem weit größeren pseudepigraphen
+    Korpus einer bedeutenden spätantiken Persönlichkeit, die bei der
+    Rezeption der antiken christlichen Tradition während des
+    Mittelalters und der frühen Neuzeit in der byzantinischen,
+    lateinischen und christlich-orientalischen Kultur eine
+    herausragende Rolle gespielt hat.
+
+    Mit der Feststellung von pseudepigraphen Schriften in den
+    Athanasius-Sammlungen verbindet sich die Frage nach deren
+    historischen Verfassern. Die Forschung der letzten hundert Jahre
+    hat teilweise bedeutende, aber später als Häretiker verurteilte
+    Theologen des 4. Jahrhunderts vermutet. Ohne angemessene Edition
+    und damit verbundene Echtheitsanalysen musste dies aber vorläufig
+    bleiben. Im vorgeschlagenen Projekt werden valide Kriterien für
+    die Verfasserfrage erarbeitet. Dadurch werden sowohl Sprache und
+    Theologie des historischen Athanasius mit bisher nicht erreichter
+    Sicherheit bestimmbar als auch bisherige Unechtheitserklärungen
+    und Zuschreibungen an andere Autoren überprüfbar. Auf dieser neuen
+    Grundlage sind die spezifischen Konzepte von wichtigen Theologen
+    wie Markell von Ankyra und Apolinaris von Laodikeia neu
+    beschreibbar und in ihrer kirchengeschichtlichen Wirkung fassbar.
+    So ermöglicht das Editionsprojekt einen Einblick in das
+    literarische Verhältnis von Athanasius zu anderen christlichen
+    Autoren der Spätantike und über die Formierungsprozesse
+    autoritativer Textsammlungen exemplarische Einsichten in den sonst
+    oft schwer zu erhellenden Zusammenhang von Orthodoxie/Häresie,
+    Pseudepigraphie und Autorität in den Diskursen des 4.-9.
+    Jahrhunderts. Die Repräsentation der Gestalt des Athanasius in
+    Sprachen aus Orient und Okzident macht ihn insbesondere auch auf
+    der Ebene der Sammlungstexte zu einem europäischen wie
+    ökumenischen Kirchenvater. Die Überlieferungssituation der
+    einzelnen Texte lässt so Rückschlüsse auf Verflechtungen des sich
+    formierenden Europa mit dem christlichen Orient zu und bietet
+    damit ein hoch interessantes Beispiel für die ambivalente
+    Kommunikationssituation konvergierender und zugleich
+    divergierender Kulturen.
+
+    Eine für diese Texte erste modernen Ansprüchen genügende kritische
+    Edition lässt somit neue Erkenntnisse über die Geschichte des
+    Christentums in seinen kulturellen Kontexten, vor allem eine
+    Neubewertung des für Spätantike und Mittelalter wichtigen
+    Phänomens der Pseudepigraphie erwarten. Die systematische
+    Erschließung dieser pseud-athanasianischen Schriften ermöglicht
+    darüber hinaus eine umfassende Evaluierung der Rezeptions- und
+    Wirkungsgeschichte von Person und Werk des Athanasius von
+    Alexandrien in Spätantike und Mittelalter.
+
+
+Ediert werden die folgenden Schriften:
+- In der a-Sammlung überlieferte Texte 
+  - CPG 2253 Ad imperatorem Iovianum 
+  - CPG 3737 Quod unus sit Christus 
+  - CPG 3738 De incarnatione Dei verbi
+- In der b-Tradition überlieferte Texte 
+  - CPG 2245 Homilia de semente
+- In der x-Sammlung überlieferte Texte 
+  - CPG 2240 Testimonia e scriptura 
+  - CPG 2241 Epistula catholica 
+  - CPG 2242 Refutatio hypocriseos Meletii et Eusebii 
+  - CPG 2248 De virginitate 
+  - CPG 2250 Disputatio contra Arium
+- In der y-Sammlung überlieferte Texte 
+  - CPG 2099 In illud: omnia mihi tradita sunt 
+  - CPG 2230 Oratio contra Arianos 4 
+  - CPG 2244 De sabbatis et circumcisione 
+  - CPG 2246 In illud: profectio in pagum 
+  - CPG 2251 Contra omnes haereses 
+  - CPG 2291 Epistula Liberii ad Athanasium 
+  - CPG 2804 Expositio fidei 
+  - AW 1 De doctrina (Auszug aus 2120 De decretis)
+- In der a- und x-Sammlung überlieferte Texte 
+  - CPG 2247 De passione et cruce domini
+- In der x- und y-Sammlung überlieferte Texte 
+  - CPG 2231 De incarnatione contra Apolinarem 1–2 
+  - CPG 2806 De incarnatione et contra Arianos 
+
+
+[[../index.html#Projekte][zurück]]

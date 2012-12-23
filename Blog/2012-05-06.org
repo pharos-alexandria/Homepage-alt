@@ -1,0 +1,19 @@
+#+TITLE:     2012 05 06 Digitalisiert: Parisinus gr. 510
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Gregorius Nazianzenus, Handschriften
+#+DESCRIPTION: Blog von Annette von Stockhausen
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">6.5.2012 | Digitalisiert: Parisinus gr. 510</span></em></p>
+</div>
+#+END_HTML
+
+  http://gallica.bnf.fr/ark:/12148/btv1b84522082/f1.item
+
+  Eine Handschrift für Basilius I. und seine Familie aus der Zeit zwischen 879 und 882 ([[http://books.google.de/books?id=LAUMM3cU_UoC&lpg=PP1&hl=de&pg=PA55#v=onepage&q&f=false][Brubaker]]) mit den  Homilien des Gregor von Nazianz
+
+
+[[../index.html#buttons][zurück]]

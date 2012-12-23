@@ -1,0 +1,37 @@
+#+TITLE:     Kommentierung des Protreptikos des Clemens Alexandrinus
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Clemens Alexandrinus, Protreptikos, Kommentar, Übersetzung
+#+DESCRIPTION: Projekte von Annette von Stockhausen: Clemens Alexandrinus, Protrepticus
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Kommentierung des Protreptikos des Clemens Alexandrinus</span><br />
+
+<span style="font-size:80%;">(für: Kommentar der frühchristlichen Apologeten [Freiburg, Herder]).</span></em></p>
+</div>
+#+END_HTML
+
+ Klemens von Alexandrien (Mitte des 2. bis Anfang des 3. Jahrhunderts) ist einer der herausragenden Vertreter des Christentums seiner Zeit. Wohl aus Athen stammend und ausgestattet mit einer gründlichen klassischen und philosophischen Grundbildung hatte er im Gang seiner weiteren Ausbildung fast den gesamten Mittelmeerraum bereist und sich schließlich als Lehrer in Alexandrien (und später in Jerusalem) niedergelassen.
+
+Er vereint in sich heidnische literarische-philosophische Bildung auf der Höhe seiner Zeit und christliche Lehre. Unter den früheren christlichen Autoren ragt er mit seiner Bildung und seinem literarischen Anspruch heraus, indem er die christliche Literatur auf das Niveau der zeitgenössischen Kunstprosa hebt.
+
+In gleicher Weise befindet sich auch seine Theologie auf der Höhe des zeitgenössischen philosophischen Diskurses: Sein Programm ist eine »kontextuelle« Theologie im besten Sinne des Wortes. Er bietet ein Argumentationsgefüge sowohl gegen Christen, die von der Einbindung der Theologie in den kulturellen Kontext der Umwelt und ihre Ausdrucksformen nichts wissen wollen, als auch gegen Heiden, die Christen für minderbemittelt bzw. das Christentum für barbarisch oder kulturlos halten. Auf diese Weise ist er (neben Euseb von Caesarea) einer der antiken christlichen Autoren, die in hohem Maße antike Literatur in die eigene Argumentation durch Zitation einbinden und dabei zugleich die antike Tradition umformen.
+
+Eine der überlieferten Schriften des Klemens ist der »Protreptikos« (Mahnrede) an die Heiden. Sie ist eine christliche Missions- und Werbeschrift, deren Ziel die Abkehr ihrer Adressaten von der Unmoral und Torheit des Götterglaubens, die Bekehrung zum Christentum als der wahren Philosophie und damit die Bekehrung zum wahren »Logos« Christus ist.
+
+Verankert in der Gattung der Apologetik, der Verteidigung des Christentums gegen heidnische Vorwürfe und Anklagen, setzt sich Klemens in erster Linie mit den griechischen Kulten und der griechischen Mythologie auseinander, wobei er durchaus auch die heidnisch-philosophische Kritik an dieser zu Hilfe nimmt, ohne dass dadurch eine gleichzeitige positive Aufnahme z. B. der heidnischen Mysterientheologie als Ausdrucksrahmen für die christliche Botschaft ausgeschlossen wäre.
+
+Klemens und sein Protreptikos stehen somit an der Schnittstelle zwischen Heidentum und Christentum: Er versucht, zwei Welten miteinander zu verbinden, indem er die christliche Botschaft in der Sprache der heidnischen Philosophie ausdrückt, ohne das eigene Proprium aus den Augen zu verlieren.
+
+Beim Projekt geht es nun darum, diesen Text, der an der Schnittstelle von antiker (heidnischer) Tradition und sich ausbildendem Christentum steht und der daher über die Inkulturationsprozesse der alten Kirche in die heidnische Gesellschaft mit ihren literarischen, philosophischen und kulturellen Traditionen und deren Umformung durch das Christentum Aufschluß gibt, zu kommentieren.
+
+Im Kommentar sollen die auf Grund der Überlieferungslage vielfach anzutreffenden problematischen Textstellen geklärt, der Text in seinen literarischen und historischen Kontext eingeordnet, die Methodik, mit der Klemens Nicht-Christen zum Christentum bewegen will, untersucht und die im Protreptikos sichtbar werdenden theologischen Aussagen herausgestellt werden.
+
+Über den Erkenntnisgewinn für die theologische Einordnung des Klemens von Alexandrien und für die Entwicklungsgeschichte des Christentums an der Wende vom 2. zum 3. Jahrhundert hinaus sind auch weiterführende Ergebnisse über die antike literarische Gattung des Protreptikos, ihre Methoden und Argumentationsformen zu erwarten, da mit dem Protreptikos des Klemens eine der wenigen erhaltenen Exemplare dieser wichtigen Gattung vorliegt.
+
+
+
+
+[[../index.html#Projekte][zurück]]

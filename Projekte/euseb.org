@@ -1,0 +1,22 @@
+#+TITLE:     Übersetzung der Kirchengeschichte des Euseb von Caesarea
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Eusebius Caesariensis, Kirchengeschichte, Übersetzung
+#+DESCRIPTION: Projekte von Annette von Stockhausen: Clemens Alexandrinus, Protrepticus
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Übersetzung der Kirchengeschichte des Euseb von Caesarea</span><br />
+
+<span style="font-size:80%;">(zusammen mit H.C. Brennecke)</span></em></p>
+</div>
+#+END_HTML
+
+Euseb von Caesarea, Kirchengeschichte (griechisch-deutsch). Auf der Basis des griechischen Textes der Ausgabe von Eduard Schwartz, neu übersetzt und mit Anmerkungen von Hanns Christof Brennecke und Annette von Stockhausen (erscheint in: [[http://www.mueze.uni-muenchen.de/fontes_christiani/index.html][Fontes Christiani]])
+
+Eusebius von Caesarea (etwa 260–339/340), Bischof der palästinischen Metropole Caesarea, gilt nicht nur als »Vater der Kirchengeschichte«, sondern muß überhaupt als einer der wichtigsten (und auch umstrittendsten) christlichen Theologen am Beginn des vierten Jahrhunderts gelten. Sein bekanntestes und bedeutendstes Werk ist seine »Kirchengeschichte«, die nach Vorarbeiten (eine Chronik ist schon vor 303 zu datieren), mit dem die literarische Gattung »Kirchengeschichte« überhaupt beginnt. In mehreren Redaktionen ist dieses insgesamt zehn Bücher umfassende Werk zwischen 290 und 325 entstanden und will die Geschichte der christlichen Kirche von ihren Anfängen bis zur Alleinherrschaft Konstantin des Großen erzählen. Auch die Kirchengeschichte ist apologetisch motiviert und deutet die Geschichte des Christentums als Durchsetzen des göttlichen Logos in der Welt und damit als Aufstiegsgeschichte. Euseb hat in seinem Werk eine große Anzahl von sonst verlorenen Urkunden aufbewahrt, so daß seine Kirchengeschichte als wichtigste Quelle für die Geschichte des Christentums in den ersten drei Jahrhunderten gelten muß. Die letzten Bücher erzählen die selbsterlebte Zeitgeschichte von den großen Verfolgungen bis zum Sieg Konstantins. Euseb wurde hier mehrmals von den aktuellen Entwicklungen eingeholt, was Umarbeitungen und Neuauflagen nötig machte.
+Eduard Schwartz hatte zu Beginn dieses Jahrhunderts eine mustergültige kritische Edition des griechischen Textes hergestellt (GCS 9,1–3, Euseb Werke II 1–3, 1903–1909, 2. Auflage hg. durch Friedhelm Winkelmann 1999). Die deutsche Übersetzung von P. Haeuser erschien 1932 (BKV 2,1) und wurde 1967 von H.A. Gärtner überarbeitet. Es fehlte bisher eine zweisprachige Ausgabe. Die am Lehrstuhl für Ältere Kirchengeschichte erarbeitete kommentierte Übersetzung für die Reihe Fontes Christiani soll diese Lücke schließen und auch die seit Jahren vergriffene editio minor der Ausgabe von E. Schwartz (1908, 5. Auflage 1952) ersetzen. Die zweisprachige Ausgabe wird insgesamt vier Bände umfassen.
+
+
+[[../index.html#Projekte][zurück]]

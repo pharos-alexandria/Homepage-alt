@@ -1,0 +1,26 @@
+#+TITLE:     2012 11 06 Neuentdeckt und digitalisiert: Monacensis gr. 314
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Origenes, BSB München
+#+DESCRIPTION: Blog von Annette von Stockhausen
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">6.11.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314</span></em></p>
+</div>
+#+END_HTML
+
+  BSB Cod.graec. 314 mit der griechischen (Original-)Fassung der Psalmen-Homilien des Origenes, vgl. die [[http://www.bsb-muenchen.de/Einzeldarstellung.402+M53f1166a989.0.html][Pressemeldung der BSB München]]
+
+  #+CAPTION: BSB Cod. graec. 314, f. 1r
+  [[http://daten.digitale-sammlungen.de/bsb00050972/image_7][file:../img/BSB-graec-314.png]]
+
+  Update 20.6.2012: Weitere Informationen bietet Lorenzo Perrone in einem [[http://oxfordpatristics.blogspot.de/2012/06/lost-homilies-on-psalms-by-origen.html][offenen Brief]].
+
+  Update 28.6.2012: Nähere Informationen finden sich in [[http://unibo.academia.edu/LorenzoPerrone/Papers/1758098/Riscoprire_Origene_oggi_prime_impressioni_sulla_raccolta_di_omelie_sui_Salmi_nel_Codex_Monacensis_Graecus_314][Lorenzo Perrone, Riscoprire Origene oggi: Prime impressioni sulla raccolta di Omelie sui Salmi nel Codex Monacensis Graecus 314]] (Preprint aus Adamantius 18, 2012).
+
+  Update 16.7.2012: Vortrag von Lorenzo Perrone über die neuentdeckten Psalmen-Homilien des Origenes auf [[http://www.youtube.com/watch?v=s890BLlVvKg][YouTube]].
+
+
+[[../index.html#buttons][zurück]]

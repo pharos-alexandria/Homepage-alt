@@ -1,0 +1,22 @@
+#+TITLE:     Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Edition, Arianischer Streit
+#+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke III
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites</span><br />
+
+<span style="font-size:80%;">    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>).</span></em></p>
+</div>
+#+END_HTML
+Informationen zu den geplanten Lieferungen:
+- [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-3.html][Athanasius Werke III 3: Bis zur Ekthesis Makrostichos (zusammen mit H.C. Brennecke, U. Heil und A. Wintjes)]]
+- [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-4.html][Athanasius Werke III 4: Bis zur Synode von Alexandrien (362) (zusammen mit H.C. Brennecke, U. Heil, Ch. Müller und A. Wintjes)]]
+- [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-5.html][Athanasius Werke III 5: Bis zum Tomus Damasi (382) (zusammen mit H.C. Brennecke, U. Heil und Ch. Müller)]]
+- [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-6.html][Athanasius Werke III 6: Bis zum Übertritt der Westgoten unter Rekkared (589) (zusammen mit H.C. Brennecke, U. Heil und Ch. Müller)]] 
+
+
+[[../index.html#Projekte][zurück]]

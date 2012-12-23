@@ -1,0 +1,30 @@
+#+TITLE:     Athanasius Werke. Zweiter Band: Die »Apologien«. Achte Lieferung
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Athanasius Alexandrinus, Edition
+#+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke II 8
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Athanasius Werke. Zweiter Band: Die »Apologien«. Achte Lieferung</span><br />
+
+<span style="font-size:80%;">    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>).</span></em></p>
+</div>
+#+END_HTML
+
+    Das Projekt umfaßte die kritische Edition der folgenden Schriften des Athanasius:
+    - Apologia ad Constantium
+    - Epistula ad Ioannem et Antiochum
+    - Epistula ad Palladium
+    - Epistula ad Dracontium
+    - Epistula ad Afros
+    - Tomus ad Antiochenos
+    - Epistula ad Jovianum
+    - Epistula Joviani ad Athanasium
+    - Petitiones Arianorum
+
+    Weitere Informationen: [[http://www.athanasius.theologie.uni-erlangen.de/aw-II.html#sec-2][Athanasius Werke II 8 (zusammen mit H.C. Brennecke und U. Heil)]]
+
+
+[[../index.html#Projekte][zurück]]

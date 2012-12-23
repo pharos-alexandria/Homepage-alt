@@ -1,0 +1,24 @@
+#+TITLE:     2012 04 20 Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien in lateinischer Übersetzung
+#+EMAIL:     annette at vonstockausen dot eu
+#+LANGUAGE:  de
+#+STARTUP:   hidestars
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
+#+KEYWORDS:  Athanasius Alexandrinus, Google Books
+#+DESCRIPTION: Blog von Annette von Stockhausen
+#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+BEGIN_HTML
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">20.4.2012 | Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien in lateinischer Übersetzung</span></em></p>
+</div>
+#+END_HTML
+
+  [[http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP4#v=onepage&q&f=true][file:../img/Athanasius-1572.png]]
+
+  Es handelt sich um: [[http://opacplus.bsb-muenchen.de/search?oclcno=165533560][Divi Athanasii Alexandrini Vero Episcopi Opera Omnia, quae quidem hactenus latinitate donata sunt Untertitel: quam fieri potuit adcuratissime castigata, tum emendationibus amplius trecentis … recens locupletata … Accesserunt Ad Haec Nuper Varia Eiusdem opuscula, aeditioni tum Gallicae, tum Germanicae, utpote Knobloci, minus antehac inserta …, Lugduni: Trechsel 1572]]
+
+Jetzt frage ich mich nur noch, warum das Digitalisat bei [[http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP2#v=onepage&q&f=false][Google Books]] online in Farbe und auf dem [[http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10148823_00002.html][Dokumentenserver des Münchner Digitalisierungszentrums]] schwarz-weiß vorliegt – ganz abgesehen davon, daß die PDF-Datei bei Google Books (dann ebenfalls schwarz-weiß) erheblich kleiner ist.
+
+
+Bei Google Books gibt es übrigens noch ein zweites Digitalisat dieses Buches, dieses Mal aus der [[http://books.google.de/books?id=3kUE4wlckccC][Biblioteca de Catalunya]]. Hier war einer der Benutzer offensichtlich gegen-reformatorisch gestimmt: Auf der [[http://books.google.de/books?id=3kUE4wlckccC&hl=de&hl=de&pg=PP6&img=1&zoom=3&sig=ACfU3U2lNNJ8B6FzVJ9dkwaYfIYGfNeHzA&ci=109%2C82%2C670%2C244&edge=0][Rückseite des Titelblatts]] (und an allen weiteren Stellen, an denen sie vorkommen) sind die Namen des *Johannes Reuchlin* und des *Erasmus von Rotterdam* durchgestrichen.
+
+
+[[../index.html#buttons][zurück]]

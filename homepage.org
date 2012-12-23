@@ -310,34 +310,67 @@ Im Kommentar sollen die auf Grund der Überlieferungslage vielfach anzutreffende
     CLOSED: [2013-11-01 Fr 09:12]
 
     Der alexandrinische Bischof Athanasius († 373) gehört zu den
-  prägenden Gestalten in der Kirchengeschichte des 4. Jahrhunderts.
-  Als »Leuchte der Orthodoxie« im trinitarischen Streit rankten sich
-  um seine Person schon bald zahlreiche Legenden. Seine Schriften
-  erhielten nahezu kanonischen Rang. Unter seinem Namen sind in den
-  vier großen spätantiken und mittelalterlichen Sammlungen seiner
-  Werke auch 20 Schriften überliefert, die nach dem heutigen Stand der
-  Forschung nicht von ihm verfaßt worden sind. Diese Pseud-Athanasiana
-  wurden von den Zeitgenossen jedoch als »echte« autoritative Texte
-  rezipiert und haben sowohl das Bild des Athanasius als auch den Gang
-  der Kirchengeschichte mitbestimmt.
+    prägenden Gestalten in der Kirchengeschichte des 4. Jahrhunderts.
+    Als »Leuchte der Orthodoxie« im trinitarischen Streit rankten sich
+    um seine Person schon bald zahlreiche Legenden. Seine Schriften
+    erhielten nahezu kanonischen Rang. Unter seinem Namen sind in den
+    vier großen spätantiken und mittelalterlichen, in Handschriften
+    überlieferten Sammlungen seiner Werke auch 20 Schriften
+    überliefert, die nach dem heutigen Stand der Forschung nicht von
+    ihm verfaßt worden sind. Diese Pseud-Athanasiana wurden von den
+    Zeitgenossen jedoch als »echte« autoritative Texte rezipiert und
+    haben sowohl das Bild des Athanasius als auch den Gang der
+    Kirchengeschichte mitbestimmt.
 
-Das vorgeschlagene Projekt erstellt die erste systematische kritische
-Edition und -kommentierung dieses signifikanten Ausschnittes aus dem
-weit größeren pseudepigraphen Korpus einer bedeutenden spätantiken
-Persönlichkeit, die bei der Rezeption der antiken christlichen
-Tradition während des Mittelalters und der frühen Neuzeit in der
-byzantinischen, lateinischen und christlich-orientalischen Kultur eine
-herausragende Rolle gespielt hat. 
+    Das vorgeschlagene Projekt erstellt die erste systematische
+    kritische (und digitale) Edition und Kommentierung dieses
+    signifikanten Ausschnittes aus dem weit größeren pseudepigraphen
+    Korpus einer bedeutenden spätantiken Persönlichkeit, die bei der
+    Rezeption der antiken christlichen Tradition während des
+    Mittelalters und der frühen Neuzeit in der byzantinischen,
+    lateinischen und christlich-orientalischen Kultur eine
+    herausragende Rolle gespielt hat.
 
-Eine für diese Texte erste modernen Ansprüchen genügende kritische
-Edition lässt neue Erkenntnisse über die Geschichte des Christentums
-in seinen kulturellen Kontexten, vor allem eine Neubewertung des für
-Spätantike und Mittelalter wichtigen Phänomens der Pseud\-epigraphie
-erwarten. Die systematische Erschließung dieser
-pseud\-athanasianischen Schriften ermöglicht darüber hinaus eine
-umfassende Evaluierung der Rezeptions- und Wirkungsgeschichte von
-Person und Werk des Athanasius von Alexandrien in Spätantike und
-Mittelalter.
+    Mit der Feststellung von pseudepigraphen Schriften in den
+    Athanasius-Sammlungen verbindet sich die Frage nach deren
+    historischen Verfassern. Die Forschung der letzten hundert Jahre
+    hat teilweise bedeutende, aber später als Häretiker verurteilte
+    Theologen des 4. Jahrhunderts vermutet. Ohne angemessene Edition
+    und damit verbundene Echtheitsanalysen musste dies aber vorläufig
+    bleiben. Im vorgeschlagenen Projekt werden valide Kriterien für
+    die Verfasserfrage erarbeitet. Dadurch werden sowohl Sprache und
+    Theologie des historischen Athanasius mit bisher nicht erreichter
+    Sicherheit bestimmbar als auch bisherige Unechtheitserklärungen
+    und Zuschreibungen an andere Autoren überprüfbar. Auf dieser neuen
+    Grundlage sind die spezifischen Konzepte von wichtigen Theologen
+    wie Markell von Ankyra und Apolinaris von Laodikeia neu
+    beschreibbar und in ihrer kirchengeschichtlichen Wirkung fassbar.
+    So ermöglicht das Editionsprojekt einen Einblick in das
+    literarische Verhältnis von Athanasius zu anderen christlichen
+    Autoren der Spätantike und über die Formierungsprozesse
+    autoritativer Textsammlungen exemplarische Einsichten in den sonst
+    oft schwer zu erhellenden Zusammenhang von Orthodoxie/Häresie,
+    Pseudepigraphie und Autorität in den Diskursen des 4.-9.
+    Jahrhunderts. Die Repräsentation der Gestalt des Athanasius in
+    Sprachen aus Orient und Okzident macht ihn insbesondere auch auf
+    der Ebene der Sammlungstexte zu einem europäischen wie
+    ökumenischen Kirchenvater. Die Überlieferungssituation der
+    einzelnen Texte lässt so Rückschlüsse auf Verflechtungen des sich
+    formierenden Europa mit dem christlichen Orient zu und bietet
+    damit ein hoch interessantes Beispiel für die ambivalente
+    Kommunikationssituation konvergierender und zugleich
+    divergierender Kulturen.
+
+    Eine für diese Texte erste modernen Ansprüchen genügende kritische
+    Edition lässt somit neue Erkenntnisse über die Geschichte des
+    Christentums in seinen kulturellen Kontexten, vor allem eine
+    Neubewertung des für Spätantike und Mittelalter wichtigen
+    Phänomens der Pseudepigraphie erwarten. Die systematische
+    Erschließung dieser pseud-athanasianischen Schriften ermöglicht
+    darüber hinaus eine umfassende Evaluierung der Rezeptions- und
+    Wirkungsgeschichte von Person und Werk des Athanasius von
+    Alexandrien in Spätantike und Mittelalter.
+
 
 Ediert werden die folgenden Schriften:
 - In der a-Sammlung überlieferte Texte 

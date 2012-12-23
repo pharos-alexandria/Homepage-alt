@@ -307,7 +307,7 @@ Im Kommentar sollen die auf Grund der Überlieferungslage vielfach anzutreffende
 
 
 *** DONE Edition der in den alten Sammlungen überlieferten Pseud-Athanasiana (Athanasius Werke IV, Lfg. 1) :Athanasius_Alexandrinus:Pseudepigraphie:Edition:
-    CLOSED: [2013-11-01 Fr 09:12]
+    CLOSED: [2012-11-01 Do 09:12]
 
     Der alexandrinische Bischof Athanasius († 373) gehört zu den
     prägenden Gestalten in der Kirchengeschichte des 4. Jahrhunderts.

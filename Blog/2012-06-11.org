@@ -1,4 +1,4 @@
-#+TITLE:     2012 11 06 Neuentdeckt und digitalisiert: Monacensis gr. 314
+#+TITLE:     2012 06 11 Neuentdeckt und digitalisiert: Monacensis gr. 314
 #+EMAIL:     annette at vonstockausen dot eu
 #+LANGUAGE:  de
 #+STARTUP:   hidestars
@@ -7,7 +7,7 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">6.11.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314</span></em></p>
+<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">11.6.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314</span></em></p>
 </div>
 #+END_HTML
 

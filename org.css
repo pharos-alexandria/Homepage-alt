@@ -1,7 +1,10 @@
-body {
-    background: url(img/gravatar.jpg) no-repeat 20px 80px;
+html {
     font: 300 .9em/1.6em Andika, "DejaVu Sans", sans;
 }
+
+body {
+    background: url(img/gravatar.jpg) no-repeat 20px 80px;
+    }
 
 #searchgmane {
     margin-left: 10pt;
@@ -145,34 +148,18 @@ code {
 }
 
 @media(min-width:1000px){
-    #screenshot {
-        float: right;
-        width: 500px;
-    }
-    #main-image {
-        float: right;
-        width: 500px;
-    }
     body {
+	background: url(img/gravatar.jpg) no-repeat 20px 80px;
         padding: 20px;
         margin-left: 50px;
         margin-right: 30px;
     }
 }
 
-@media(min-width:800px) and (max-width:1000px){
-    #screenshot {
-        float: right;
-        width: 450px;
-    }
-    #main-image {
-        float: right;
-        width: 450px;
-    }
-}
 
 @media(min-width:850px) and (max-width:1000px){
     body {
+	background: url(img/gravatar-klein.jpg) no-repeat 5px 80px;
         padding: 10px;
         margin-left: 25px;
         margin-right: 15px;
@@ -180,29 +167,11 @@ code {
 }
 
 @media(max-width:800px){
-    #screenshot {
-        display: none;
-    }
-    #main-image {
-        display: none;
-    }
-}
-
-@media(max-width:800px){
-    code{
-        font-size: 85%;
-    }
-}
-
-@media(min-width:800px) and (max-width:900px){
-    code{
-        font-size: 75%;
-    }
-}
-
-@media(min-width:900px){
-    code{
-        font-size: 85%;
+    body {
+	background: url(img/gravatar-klein.jpg) no-repeat 5px 50px;
+        padding: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 }
 

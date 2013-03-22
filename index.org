@@ -107,7 +107,7 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
 ** Beiträge in Sammelbänden
   * Stockhausen, A. von, Die Edition der Konzilsakten und das Problem der Sammlungen – Editionsphilologische Überlegungen anhand der ACO III, in: Heil, U./Stockhausen A. v. (Hrsg.), Crux interpretum. Philologie und Patristik 100 Jahre nach Eduard Schwartz. Vorträge der Tagung zum 65. Geburtstag von Hanns Christof Brennecke, 17.-18. Februar 2012 (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur), Berlin/Boston 2013 (in Vorbereitung).
   * Stockhausen, A. von, Der Brief der Synode von Ankyra 358, in: Heil, U./Stockhausen A. v. (Hrsg.), Die Synoden im arianischen Streit. Vorträge des gleichnamigen Workshops auf der Sixteenth International Conference on Patristic Studies 8.-12. August 2011 (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur), Berlin/Boston 2013 (in Vorbereitung).
-  * Stockhausen, A. von, Insights into the Christian Office in Late Antiquity, in: Homolka, W./H.-G. Schöttler (Hrsg.), Rabbi - Pastor - Priest. Their Roles and Profiles Through the Ages (Studia Judaica 64), Berlin/New York 2012, 41–53.
+  * [[http://www.degruyter.com/view/books/9783110266962/9783110266962.41/9783110266962.41.xml][Stockhausen, A. von, Insights into the Christian Office in Late Antiquity, in: Homolka, W./H.-G. Schöttler (Hrsg.), Rabbi - Pastor - Priest. Their Roles and Profiles Through the Ages (Studia Judaica 64), Berlin/New York 2013, 41–54.]]
   * Stockhausen, A. von/Eberhardt, B., Joel, in: Septuaginta deutsch. Das griechische Alte Testament in Übersetzung – Kommentarband, Stuttgart: Deutsche Bibelgesellschaft 2011, 2381–2387. 
   * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517138/Die_pseud-athanasianische_Disputatio_contra_Arium._Eine_Auseinandersetzung_mit_arianischer_Theologie_in_Dialogform_in_Stockhausen_A._von_H._C._Brennecke_Hrsg._Von_Arius_zum_Athanasianum._Studien_zur_Edition_der_Athanasius_Werke_Texte_und_Untersuchungen_zur_Geschichte_der_altchristlichen_Literatur_164_Berlin_New_York_2010_133-155][Stockhausen, A. von, Die pseud-athanasianische Disputatio contra Arium. Eine Auseinandersetzung mit »arianischer« Theologie in Dialogform, in: Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010, 133-155.]]
   * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1517141/Die_pseud-athanasianische_Homilia_de_semente._Einleitung_Text_und_Ubersetzung_in_Stockhausen_A._von_H._C._Brennecke_Hrsg._Von_Arius_zum_Athanasianum._Studien_zur_Edition_der_Athanasius_Werke_Texte_und_Untersuchungen_zur_Geschichte_der_altchristlichen_Literatur_164_Berlin_New_York_2010_157-203][Stockhausen, A. von, Die pseud-athanasianische Homilia de semente. Einleitung, Text und Übersetzung, in: Stockhausen, A. von/H. C. Brennecke (Hrsg.), Von Arius zum Athanasianum. Studien zur Edition der »Athanasius Werke« (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 164), Berlin/New York 2010, 157-203.]]
@@ -190,6 +190,7 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
    - Übung: Der Sinai – Märtyrer, Mönche, Manuskripte
    - Übung: Mission zum Christentum? Der Protreptikos des Klemens von Alexandrien
    - Oberseminar: Dokumente zum arianischen Streit (zusammen mit H.C. Brennecke)
+   - Exkursion nach Trier (zusammen mit H.C. Brennecke und C. Müller)
 ** Sommersemester 2012
    - Proseminar: Die Abgar-Legende – Christentum im römisch-persischen Grenzbereich
    - Vorlesung: Kirchengeschichte im Überblick
@@ -264,7 +265,7 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
     :PROPERTIES:
     :CUSTOM_ID: impressum
     :END:
-  Copyright © 2012
+  Copyright © 2012–2013
   [[mailto:%61%6E%6E%65%74%74%65%40%76%6F%6E%73%74%6F%63%6B%68%61%75%73%65%6E%2E%65%75][Annette
   von Stockhausen]], Vierzigmannstr. 12, 91054 Erlangen, Tel. 09131-9209175.
 

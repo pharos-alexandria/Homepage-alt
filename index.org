@@ -25,22 +25,14 @@ von Stockhausen]] über Patristik, Handschriften und andere Dinge, die
 im Fokus von Forschung und Lehre stehen.
 
 * Letzte Artikel
-  :PROPERTIES:
-  :CUSTOM_ID: Artikel
-  :END:
+  :properties:
+  :custom_id: artikel
+  :end:
+** [[file:Blog/2013-03-28.org][28.03.2013 | Karte der Teilnehmer an der Synode von Serdika (342)]]
 ** [[file:Blog/2012-11-08.org][08.11.2012 | Weiterer Artikel im Zuge der Selbstarchivierung online]]
 ** [[file:Blog/2012-10-04.org][04.10.2012 | Selbstarchivierung von Publikationen]]
 ** [[file:Blog/2012-06-11.org][11.06.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314]]
 ** [[file:Blog/2012-05-06.org][05.06.2012 | Digitalisiert: Parisinus gr. 510]]
-** [[file:Blog/2012-04-20.org][20.04.2012 | Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien]]
-*** Move
-   :PROPERTIES:
-   :ID:       move
-   :HTML_CONTAINER_CLASS: move
-   :END:
-
-{{{next(Vita)}}}
-
 
 * Vita
   :PROPERTIES:

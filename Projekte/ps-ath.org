@@ -7,8 +7,7 @@
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke IV
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;"> Athanasius Werke. Vierter Band (Lfg. 1): Die in den alten Sammlungen überlieferten Pseud-Athanasiana</span></em></p>
-</div>
+<h2> Athanasius Werke. Vierter Band (Lfg. 1): Die in den alten Sammlungen überlieferten Pseud-Athanasiana</h2>
 #+END_HTML
     Der alexandrinische Bischof Athanasius († 373) gehört zu den
     prägenden Gestalten in der Kirchengeschichte des 4. Jahrhunderts.

@@ -7,8 +7,7 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">4.10.2012 | Selbstarchivierung von Publikationen</span></em></p>
-</div>
+<h2>4.10.2012 | Selbstarchivierung von Publikationen</h2>
 #+END_HTML
 
    Einige meiner Publikationen sind nun im Zuge der Selbstarchivierung online zugänglich:

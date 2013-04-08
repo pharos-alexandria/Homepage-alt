@@ -7,8 +7,7 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">6.5.2012 | Digitalisiert: Parisinus gr. 510</span></em></p>
-</div>
+<h2>6.5.2012 | Digitalisiert: Parisinus gr. 510</h2>
 #+END_HTML
 
   http://gallica.bnf.fr/ark:/12148/btv1b84522082/f1.item

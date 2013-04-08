@@ -65,7 +65,7 @@
       org-confirm-babel-evaluate nil)
 
 ;; re-export everything regardless of whether or not it's been modified
-;(setq org-publish-use-timestamps-flag nil)
+;;(setq org-publish-use-timestamps-flag nil)
 
 (defun set-org-publish-project-alist ()
   (interactive)
@@ -86,7 +86,10 @@
 	   :table-of-contents nil
 	   :style "<link rel=\"SHORTCUT ICON\" href=\"gravatar-mini.jpg\" type=\"image/jpg\" />
 <link rel=\"icon\" href=\"gravatar-mini.jpg\" type=\"image/jpg\" />
-<link rel=\"publisher\" href=\"https://plus.google.com/102778904320752967064\" />"
+<link rel=\"publisher\" href=\"https://plus.google.com/102778904320752967064\" />
+<script src=\"http://use.edgefonts.net/lato;alexa-std.js\"></script>
+<script type=\"text/javascript\" src=\"js/jquery-1.9.1.min.js\"></script>
+<script type=\"text/javascript\" src=\"js/org.js\"></script>"
 	   :html-preamble ,(org-get-file-contents "~/Private/Homepage/preamble.html")
 	   :html-postamble nil
 	   :exclude "sitemap-gen.html,emacs.el"

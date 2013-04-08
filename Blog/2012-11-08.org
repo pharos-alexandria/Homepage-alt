@@ -7,8 +7,7 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">8.11.2012 | Weiterer Artikel im Zuge der Selbstarchivierung online</span></em></p>
-</div>
+<h2>8.11.2012 | Weiterer Artikel im Zuge der Selbstarchivierung online</h2>
 #+END_HTML
    [[http://www.academia.edu/1464258/Uber_die_Ubersetzungstechnik_der_Joel-Septuaginta_und_ihre_Konsequenzen_fur_die_Ubersetzung_des_Joel-Buches_im_Rahmen_der_Septuaginta_Deutsch_in_Im_Brennpunkt_Die_Septuaginta._Studien_zur_Entstehung_und_Bedeutung_der_Griechischen_Bibel._Band_2_hg._v._S._Kreuzer_J._Lesch_BWANT_161_Stuttgart_2004_259-268][Über die Übersetzungstechnik der Joel-Septuaginta und ihre Konsequenzen für die Übersetzung des Joel-Buches im Rahmen der Septuaginta Deutsch, in: Im Brennpunkt: Die Septuaginta. Studien zur Entstehung und Bedeutung der Griechischen Bibel. Band 2, hg. v. S. Kreuzer/J. Lesch (BWANT 161), Stuttgart 2004, 259–268.]]
 

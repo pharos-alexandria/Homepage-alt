@@ -6,5 +6,5 @@
 #+KEYWORDS:  Sitemap
 #+DESCRIPTION: Homepage von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="org.css" type="text/css" />
-#+HTML: <div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Überblick</span></em></p></div>
+#+HTML: <h2>Überblick</h2>
 #+INCLUDE: sitemap-gen.org

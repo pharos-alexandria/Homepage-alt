@@ -7,14 +7,12 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">11.6.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314</span></em></p>
-</div>
+<h2>11.6.2012 | Neuentdeckt und digitalisiert: Monacensis gr. 314</h2>
 #+END_HTML
 
   BSB Cod.graec. 314 mit der griechischen (Original-)Fassung der Psalmen-Homilien des Origenes, vgl. die [[http://www.bsb-muenchen.de/Einzeldarstellung.402+M53f1166a989.0.html][Pressemeldung der BSB München]]
 
-  #+CAPTION: BSB Cod. graec. 314, f. 1r
-  [[http://daten.digitale-sammlungen.de/bsb00050972/image_7][file:../img/BSB-graec-314.png]]
+  #+HTML: <a href="http://daten.digitale-sammlungen.de/bsb00050972/image_7"><img src="../img/BSB-graec-314.png" alt="BSB Cod. graec. 314, f. 1r"></img></a>
 
   Update 20.6.2012: Weitere Informationen bietet Lorenzo Perrone in einem [[http://oxfordpatristics.blogspot.de/2012/06/lost-homilies-on-psalms-by-origen.html][offenen Brief]].
 

@@ -7,10 +7,8 @@
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke III
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites</span><br />
-
-<span style="font-size:80%;">    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>).</span></em></p>
-</div>
+<h2>Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites</h2>
+<h3>    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>)</h3>
 #+END_HTML
 Informationen zu den geplanten Lieferungen:
 - [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-3.html][Athanasius Werke III 3: Bis zur Ekthesis Makrostichos (zusammen mit H.C. Brennecke, U. Heil und A. Wintjes)]]

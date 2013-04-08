@@ -7,10 +7,8 @@
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Clemens Alexandrinus, Protrepticus
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Kommentierung des Protreptikos des Clemens Alexandrinus</span><br />
-
-<span style="font-size:80%;">(für: Kommentar der frühchristlichen Apologeten [Freiburg, Herder]).</span></em></p>
-</div>
+<h2>Kommentierung des Protreptikos des Clemens Alexandrinus</h2>
+<h3>(für: Kommentar der frühchristlichen Apologeten [Freiburg, Herder]).</h3>
 #+END_HTML
 
  Klemens von Alexandrien (Mitte des 2. bis Anfang des 3. Jahrhunderts) ist einer der herausragenden Vertreter des Christentums seiner Zeit. Wohl aus Athen stammend und ausgestattet mit einer gründlichen klassischen und philosophischen Grundbildung hatte er im Gang seiner weiteren Ausbildung fast den gesamten Mittelmeerraum bereist und sich schließlich als Lehrer in Alexandrien (und später in Jerusalem) niedergelassen.

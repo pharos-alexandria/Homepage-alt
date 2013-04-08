@@ -7,11 +7,10 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">20.4.2012 | Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien in lateinischer Übersetzung</span></em></p>
-</div>
+<h2>20.4.2012 | Digitalisat eines frühen Drucks der Opera Omnia des Athanasius von Alexandrien in lateinischer Übersetzung</h2>
 #+END_HTML
 
-  [[http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP4#v=onepage&q&f=true][file:../img/Athanasius-1572.png]]
+ #+HTML: <a href="http://books.google.de/books?id=9IVKAAAAcAAJ&hl=de&pg=PP4#v=onepage&q&f=true"><img src="../img/Athanasius-1572.png"></img></a>
 
   Es handelt sich um: [[http://opacplus.bsb-muenchen.de/search?oclcno=165533560][Divi Athanasii Alexandrini Vero Episcopi Opera Omnia, quae quidem hactenus latinitate donata sunt Untertitel: quam fieri potuit adcuratissime castigata, tum emendationibus amplius trecentis … recens locupletata … Accesserunt Ad Haec Nuper Varia Eiusdem opuscula, aeditioni tum Gallicae, tum Germanicae, utpote Knobloci, minus antehac inserta …, Lugduni: Trechsel 1572]]
 

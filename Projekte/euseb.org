@@ -7,10 +7,8 @@
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Clemens Alexandrinus, Protrepticus
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Übersetzung der Kirchengeschichte des Euseb von Caesarea</span><br />
-
-<span style="font-size:80%;">(zusammen mit H.C. Brennecke)</span></em></p>
-</div>
+<h2>Übersetzung der Kirchengeschichte des Euseb von Caesarea</h2>
+<h3>(zusammen mit H.C. Brennecke)</h3>
 #+END_HTML
 
 Euseb von Caesarea, Kirchengeschichte (griechisch-deutsch). Auf der Basis des griechischen Textes der Ausgabe von Eduard Schwartz, neu übersetzt und mit Anmerkungen von Hanns Christof Brennecke und Annette von Stockhausen (erscheint in: [[http://www.mueze.uni-muenchen.de/fontes_christiani/index.html][Fontes Christiani]])

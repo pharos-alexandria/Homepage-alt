@@ -12,15 +12,13 @@
 
 #+BEGIN_HTML
 <div id="buttons"><a href="#impressum">Impressum</a></div>
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Pharos</span><br />
-
-<span style="font-size:80%;">Notizen und Fundstücke aus Forschung und Lehre</span></em></p>
-</div>
+<h1>Pharos</h1>
+<h2>Notizen und Fundstücke aus Forschung und Lehre</h2>
 #+END_HTML
 
 [[file:sitemap.org][Übersicht]] | [[#Vita][Vita]] | [[#Publikationen][Publikationen]] | [[#Projekte][Projekte]] | [[#Lehre][Lehrveranstaltungen]] | [[https://twitter.com/Stocki_][Twitter]] | [[https://plus.google.com/115193474134799916257/posts][Google+]]
 
-In diesem Blog schreibt [[mailto:%61%6E%6E%65%74%74%65%40%76%6F%6E%73%74%6F%63%6B%68%61%75%73%65%6E%2E%65%75][Annette
+Hier schreibt [[mailto:%61%6E%6E%65%74%74%65%40%76%6F%6E%73%74%6F%63%6B%68%61%75%73%65%6E%2E%65%75][Annette
 von Stockhausen]] über Patristik, Handschriften und andere Dinge, die
 im Fokus von Forschung und Lehre stehen.
 

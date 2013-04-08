@@ -7,10 +7,8 @@
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke II 8
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">Athanasius Werke. Zweiter Band: Die »Apologien«. Achte Lieferung</span><br />
-
-<span style="font-size:80%;">    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>).</span></em></p>
-</div>
+<h2>Athanasius Werke. Zweiter Band: Die »Apologien«. Achte Lieferung</h2>
+<h3>    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>).</h3>
 #+END_HTML
 
     Das Projekt umfaßte die kritische Edition der folgenden Schriften des Athanasius:

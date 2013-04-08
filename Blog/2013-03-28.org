@@ -7,8 +7,9 @@
 #+DESCRIPTION: Blog von Annette von Stockhausen
 #+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
-<div style="margin-top:0pt;"><p><em><span style="font-size:130%;">28.3.2012 | Karte der Teilnehmer an der Synode von Serdika (342)</span></em></p>
-</div>
+<h2>28.3.2012 | Karte der Teilnehmer an der Synode von Serdika (342)</h2>
 <iframe src="http://mapsengine.google.com/map/u/0/view?mid=zdgj8oEbUHaA.kPf5DR8WLsTo" width="640" height="480"></iframe>
 #+END_HTML
 Die Karte zeigt die Teilnehmer der westlichen und der östlichen Synode von Serdika ([[http://www.athanasius.theologie.uni-erlangen.de/aw-III-3.html][AW III, Dok. 43]]). Sie basiert auf denselben Daten wie die von mir für [[http://dx.doi.org/10.1515/9783110927351][Athanasius Werke III/1]], S. 185 (mit den [[http://gmt.soest.hawaii.edu/][Generic Mapping Tools]]) erstellte Karte und wurde mit Hilfe der neuen Google Maps Engine Lite hergestellt.
+
+[[../index.html#buttons][zurück]]

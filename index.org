@@ -50,26 +50,26 @@ im Fokus von Forschung und Lehre stehen.
   :HTML_CONTAINER_CLASS: rss-rechts
   :end:
   :FEEDSTATUS:
-(("http://zotero.org/avs/items/NT8XQNK6" t "c8aaeb96e95820cd9a5a9827680e3e38ed462615")
- ("http://zotero.org/avs/items/KW2FND58" t "34c5a4cdb0e499d0b6436a76afd196c11546dad3")
- ("http://zotero.org/avs/items/DPJGSIF6" t "fe537a1f3090dfb8c8a42ab7826b2df005895558")
- ("http://zotero.org/avs/items/CMTTZ5JZ" t "2cc660082f60abc58bf8bf162f5255d4b9458863")
- ("http://zotero.org/avs/items/4KZ25CWX" t "5bc3eabe2c6200e1cbbf6f7906e2dc0e5619e1e4"))
+(("http://zotero.org/avs/items/PEPM6FVC" t "577e5705d4f92730cfc580fbf5573dc3854541dd")
+ ("http://zotero.org/avs/items/KH8FT8RM" t "938b5dc8fafa11f4d862802cd86e0038f9c833c2")
+ ("http://zotero.org/avs/items/KZ9JI66E" t "e0398406e4af96463b94641c8dcc7642b2de0c48")
+ ("http://zotero.org/avs/items/238FJ699" t "fa74fc79011909e39537477779f454abaca3b59a")
+ ("http://zotero.org/avs/items/NT8XQNK6" t "e6bf06170bd40b430ae6c304723b884841105097"))
   :END:
-**** Peroratio
-    [[http://zotero.org/avs/items/4KZ25CWX]]
-
-**** Propositio
-    [[http://zotero.org/avs/items/CMTTZ5JZ]]
-
-**** Valentino gnostico e platonico. Il valentinianesimo della Grande Notizia di Ireneo di Lione. Fra esegesi gnostica e filosofia medio platonica
-    [[http://zotero.org/avs/items/DPJGSIF6]]
-
-**** Hieronymus als Briefschreiber. Ein Beitrag zur spätantiken Epistolographie
-    [[http://zotero.org/avs/items/KW2FND58]]
-
 **** Christianity and Hellenism in the Fifth-Century Greek East. Theodoret's Apologetics Against the Greeks in Context
     [[http://zotero.org/avs/items/NT8XQNK6]]
+**** The Preface and Subject Matter of Cyril of Alexandria’s De Adoratione
+    [[http://zotero.org/avs/items/238FJ699]]
+
+**** The Synod of Ancyra (358) and the Question of the Son’s Creaturehood
+    [[http://zotero.org/avs/items/KZ9JI66E]]
+
+**** Melito Peri Pascha: Corrections and Revisions
+    [[http://zotero.org/avs/items/KH8FT8RM]]
+
+**** On the Diversity and Influence of the Eusebian Alliance: The Case of Theodore of Heraclea
+    [[http://zotero.org/avs/items/PEPM6FVC]]
+
 
 
 

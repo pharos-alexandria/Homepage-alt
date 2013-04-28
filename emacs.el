@@ -46,7 +46,7 @@
 ;;(setq make-backup-files nil)
 
 (setq org-export-default-language "de"
-      org-export-html-extension "html"
+      org-html-extension "html"
       org-export-with-timestamps nil
       org-export-with-section-numbers nil
       org-export-with-tags 'not-in-toc
@@ -56,8 +56,8 @@
       org-export-with-LaTeX-fragments t
       org-export-with-archived-trees nil
       org-export-highlight-first-table-line t
-      org-export-latex-listings-w-names nil
-      org-export-html-style-include-default nil
+      org-latex-listings-w-names nil
+      org-html-head-include-default nil
       org-export-htmlize-output-type 'css
       org-startup-folded t
       org-publish-list-skipped-files t
@@ -77,7 +77,7 @@
 	   :base-extension "org"
 	   :html-extension "html"
 	   :publishing-directory "~/Sites/Privat"
-	   :publishing-function org-publish-org-to-html
+	   :publishing-function org-html-publish-to-html
 	   :auto-sitemap t
 	   :sitemap-title "Überblick"
 	   :sitemap-filename "sitemap-gen.org"
@@ -85,7 +85,7 @@
 	   :sitemap-date-format "%d.%m.%Y"
 	   :section-numbers nil
 	   :table-of-contents nil
-	   :style "<link rel=\"SHORTCUT ICON\" href=\"gravatar-mini.jpg\" type=\"image/jpg\" />
+	   :head "<link rel=\"SHORTCUT ICON\" href=\"gravatar-mini.jpg\" type=\"image/jpg\" />
 <link rel=\"icon\" href=\"gravatar-mini.jpg\" type=\"image/jpg\" />
 <link rel=\"publisher\" href=\"https://plus.google.com/102778904320752967064\" />
 <script src=\"http://use.edgefonts.net/lato;alexa-std.js\"></script>"

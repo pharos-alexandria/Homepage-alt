@@ -5,7 +5,7 @@
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
 #+KEYWORDS:  Publikationen
 #+DESCRIPTION: Blog von Annette von Stockhausen
-#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+HTML_HEAD:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
 <h2>28.3.2012 | Karte der Teilnehmer an der Synode von Serdika (342)</h2>
 <iframe src="http://mapsengine.google.com/map/u/0/view?mid=zdgj8oEbUHaA.kPf5DR8WLsTo" width="640" height="480"></iframe>

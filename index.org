@@ -15,26 +15,20 @@ von Stockhausen]] über Patristik, Handschriften und andere Dinge, die
 im Fokus von Forschung und Lehre stehen.
 
 * Letzte Artikel
-  :properties:
+  :PROPERTIES:
   :custom_id: Artikel
-  :end:
-*** Neue Lesezeichen
-  :properties:
-  :HTML_CONTAINER_CLASS: rss-links
-  :end:
-  :FEEDSTATUS:
-((nil t "06f4639686ff1f6767a8078dca876cb16622453d")
- (nil t "ad983098dfa769778b0c663a1cbd829264cf9523")
- (nil t "2e773f15e6d2d65a8984872ba715a2340bc1a9cf")
- (nil t "803f7de778777cb23c726f3cac46093e879b4e11")
- (nil t "2f4f4166a6f7ee91389405c295198ec570db3980"))
   :END:
-**** Travelers in the Middle East Archive (TIMEA) Home
-    [[http://timea.rice.edu/index.html]]
-
-**** NYPL Digital Gallery | The Middle East in Early Prints and Photographs
-    [[http://digitalgallery.nypl.org/nypldigital/explore/dgexplore.cfm?col_id=179]]
-
+*** Neue Lesezeichen
+    :PROPERTIES:
+    :HTML_CONTAINER_CLASS: rss-links
+    :END:
+  :FEEDSTATUS:
+((nil t "3666de7e05852dd2c1dac271d22f8f773f12a49e")
+ (nil t "c19822ffef5e85ef18dfce72a4878dc38246a85e")
+ (nil t "06f4639686ff1f6767a8078dca876cb16622453d")
+ (nil t "ad983098dfa769778b0c663a1cbd829264cf9523")
+ (nil t "2e773f15e6d2d65a8984872ba715a2340bc1a9cf"))
+  :END:
 **** Introduction to Bible Manuscripts
     [[http://www.bl.uk/catalogues/illuminatedmanuscripts/TourBibGen.asp]]
 
@@ -44,31 +38,39 @@ im Fokus von Forschung und Lehre stehen.
 **** The Atlas of Early Printing
     [[http://atlas.lib.uiowa.edu/]]
 
+**** The Morgan Gutenberg Bible Online - Provenance
+    [[http://www.themorgan.org/collections/works/gutenberg/provenance]]
+
+**** Ancient Greek - English Dictionary (LSJ)
+    [[http://lsj.translatum.gr/wiki/Main_Page]]
+
 
 *** Zuletzt bibliographiert
-  :properties:
-  :HTML_CONTAINER_CLASS: rss-rechts
-  :end:
+    :PROPERTIES:
+    :HTML_CONTAINER_CLASS: rss-rechts
+    :END:
   :FEEDSTATUS:
-(("http://zotero.org/avs/items/PEPM6FVC" t "577e5705d4f92730cfc580fbf5573dc3854541dd")
- ("http://zotero.org/avs/items/KH8FT8RM" t "938b5dc8fafa11f4d862802cd86e0038f9c833c2")
- ("http://zotero.org/avs/items/KZ9JI66E" t "e0398406e4af96463b94641c8dcc7642b2de0c48")
- ("http://zotero.org/avs/items/238FJ699" t "fa74fc79011909e39537477779f454abaca3b59a")
- ("http://zotero.org/avs/items/NT8XQNK6" t "e6bf06170bd40b430ae6c304723b884841105097"))
+(("http://zotero.org/avs/items/96CDU8WP" t "307a27cfc1f6e35b8dafbb9f1d5e999414e521f1")
+ ("http://zotero.org/avs/items/383I9AR3" t "ab22b4ccddfb15cfe8ad939a648e8ec559ac5d6a")
+ ("http://zotero.org/avs/items/NKPEXF9F" t "064da30b9fd7948c585d5ef2823dd189c62c1300")
+ ("http://zotero.org/avs/items/3WQT9J33" t "15b08653f693cdb361953f1a0bd58f01561038be")
+ ("http://zotero.org/avs/items/27BZAQNZ" t "d052082f97eb7894498d15d5b45994c6f5cc874b"))
   :END:
-**** Christianity and Hellenism in the Fifth-Century Greek East. Theodoret's Apologetics Against the Greeks in Context
-    [[http://zotero.org/avs/items/NT8XQNK6]]
-**** The Preface and Subject Matter of Cyril of Alexandria’s De Adoratione
-    [[http://zotero.org/avs/items/238FJ699]]
+**** Theological Poliemic and Textual Revision in Justin Martyr's Dialogue with Trypho the Jew
+    [[http://zotero.org/avs/items/27BZAQNZ]]
 
-**** The Synod of Ancyra (358) and the Question of the Son’s Creaturehood
-    [[http://zotero.org/avs/items/KZ9JI66E]]
+**** Greek Christian Access to ‘the Three’, 250-600 Ce
+    [[http://zotero.org/avs/items/3WQT9J33]]
 
-**** Melito Peri Pascha: Corrections and Revisions
-    [[http://zotero.org/avs/items/KH8FT8RM]]
+**** St Basil the Great and Apollinaris of Laodicea
+    [[http://zotero.org/avs/items/NKPEXF9F]]
 
-**** On the Diversity and Influence of the Eusebian Alliance: The Case of Theodore of Heraclea
-    [[http://zotero.org/avs/items/PEPM6FVC]]
+**** Deutschland im Zeitalter der Reformation
+    [[http://zotero.org/avs/items/383I9AR3]]
+
+**** Le siège de Rome et l'Orient (448-536). Étude géo-ecclesiologique
+    [[http://zotero.org/avs/items/96CDU8WP]]
+
 
 
 
@@ -82,7 +84,7 @@ im Fokus von Forschung und Lehre stehen.
   :PROPERTIES:
   :CUSTOM_ID: Vita
   :END:
-  #+ATTR_HTML: :style="float:right;margin:20px;" title="Bild von Annette von Stockhausen"
+  #+ATTR_HTML: :style float:right;margin:20px; :title Bild von Annette von Stockhausen
   [[file:img/Annette.jpg]]
   ∗ 1972
 

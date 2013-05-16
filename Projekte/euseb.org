@@ -5,7 +5,7 @@
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
 #+KEYWORDS:  Eusebius Caesariensis, Kirchengeschichte, Übersetzung
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Clemens Alexandrinus, Protrepticus
-#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+HTML_HEAD:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
 <h2>Übersetzung der Kirchengeschichte des Euseb von Caesarea</h2>
 <h3>(zusammen mit H.C. Brennecke)</h3>

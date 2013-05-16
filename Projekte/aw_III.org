@@ -5,7 +5,7 @@
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
 #+KEYWORDS:  Edition, Arianischer Streit
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke III
-#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+HTML_HEAD:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
 <h2>Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites</h2>
 <h3>    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>)</h3>

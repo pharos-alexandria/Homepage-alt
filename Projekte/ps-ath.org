@@ -5,7 +5,7 @@
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
 #+KEYWORDS:  Pseudepigraphie, Athanasius Alexandrinus, Edition
 #+DESCRIPTION: Projekte von Annette von Stockhausen: Athanasius Werke IV
-#+STYLE:     <link rel="stylesheet" href="../org.css" type="text/css" />
+#+HTML_HEAD:     <link rel="stylesheet" href="../org.css" type="text/css" />
 #+BEGIN_HTML
 <h2> Athanasius Werke. Vierter Band (Lfg. 1): Die in den alten Sammlungen überlieferten Pseud-Athanasiana</h2>
 #+END_HTML

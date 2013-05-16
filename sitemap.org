@@ -5,6 +5,6 @@
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t author:nil <:t LaTeX:t
 #+KEYWORDS:  Sitemap
 #+DESCRIPTION: Homepage von Annette von Stockhausen
-#+STYLE:     <link rel="stylesheet" href="org.css" type="text/css" />
+#+HTML_HEAD:     <link rel="stylesheet" href="org.css" type="text/css" />
 #+HTML: <h2>Überblick</h2>
 #+INCLUDE: sitemap-gen.org

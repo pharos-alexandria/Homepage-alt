@@ -23,53 +23,44 @@ im Fokus von Forschung und Lehre stehen.
     :HTML_CONTAINER_CLASS: rss-links
     :END:
   :FEEDSTATUS:
-((nil t "3666de7e05852dd2c1dac271d22f8f773f12a49e")
- (nil t "c19822ffef5e85ef18dfce72a4878dc38246a85e")
- (nil t "06f4639686ff1f6767a8078dca876cb16622453d")
- (nil t "ad983098dfa769778b0c663a1cbd829264cf9523")
- (nil t "2e773f15e6d2d65a8984872ba715a2340bc1a9cf"))
+((nil t "d5ba9a5f0e84e5c6edb06e24a713ac99e823eebd")
+ (nil t "0ee7526261e5e4db1fb360945bdab5dfe6ee1605")
+ (nil t "a95fe3265ffd7d93cc7a59645d5a63754f8e74ac")
+ (nil t "57cd801abc3de92426998208ab0aef151d448e8a")
+ (nil t "c6612ef0f2cd1e85df25f16ff25b5d6b90d99143"))
   :END:
-**** Introduction to Bible Manuscripts
-    [[http://www.bl.uk/catalogues/illuminatedmanuscripts/TourBibGen.asp]]
-
-**** Jerusalem Virtual Library
-    [[http://www.jerusalem-library.org/]]
-
-**** The Atlas of Early Printing
-    [[http://atlas.lib.uiowa.edu/]]
-
-**** The Morgan Gutenberg Bible Online - Provenance
-    [[http://www.themorgan.org/collections/works/gutenberg/provenance]]
-
-**** Ancient Greek - English Dictionary (LSJ)
-    [[http://lsj.translatum.gr/wiki/Main_Page]]
-
+   - Oxford Bibliographies - Your Best Research Starts Here
+   [[http://www.oxfordbibliographies.com/]]
+   - Lexica Latina et Graeca
+   [[http://syntax.t15.org/lexica/]]
+   - PerseusCatalog
+   [[http://catalog.perseus.org/]]
+   - Die Kölner Tura-Papyri
+   [[http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Turapap/]]
+   - Der Mani-Kodex
+   [[http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Manikodex/mani.html]]
 
 *** Zuletzt bibliographiert
     :PROPERTIES:
     :HTML_CONTAINER_CLASS: rss-rechts
     :END:
   :FEEDSTATUS:
-(("http://zotero.org/avs/items/96CDU8WP" t "307a27cfc1f6e35b8dafbb9f1d5e999414e521f1")
- ("http://zotero.org/avs/items/383I9AR3" t "ab22b4ccddfb15cfe8ad939a648e8ec559ac5d6a")
- ("http://zotero.org/avs/items/NKPEXF9F" t "064da30b9fd7948c585d5ef2823dd189c62c1300")
- ("http://zotero.org/avs/items/3WQT9J33" t "15b08653f693cdb361953f1a0bd58f01561038be")
- ("http://zotero.org/avs/items/27BZAQNZ" t "d052082f97eb7894498d15d5b45994c6f5cc874b"))
+(("http://zotero.org/avs/items/33Q7SZIB" t "44695ed03ace061a3e5a2720c5bb48a8843f7063")
+ ("http://zotero.org/avs/items/JV5CCIMJ" t "79a9fb6b33706277ae47ef37cb1de9736b144485")
+ ("http://zotero.org/avs/items/P8PK96IK" t "4a6d70ffde3d63dee91904ba475d8c0b83adf8b3")
+ ("http://zotero.org/avs/items/Z8F7UIGE" t "27c2f4be8b734d6bdf0be0e877df32eaa335c77e")
+ ("http://zotero.org/avs/items/CTKQA9G5" t "5669d65e60b10b59d040c320d046b0793e3c63e4"))
   :END:
-**** Theological Poliemic and Textual Revision in Justin Martyr's Dialogue with Trypho the Jew
-    [[http://zotero.org/avs/items/27BZAQNZ]]
-
-**** Greek Christian Access to ‘the Three’, 250-600 Ce
-    [[http://zotero.org/avs/items/3WQT9J33]]
-
-**** St Basil the Great and Apollinaris of Laodicea
-    [[http://zotero.org/avs/items/NKPEXF9F]]
-
-**** Deutschland im Zeitalter der Reformation
-    [[http://zotero.org/avs/items/383I9AR3]]
-
-**** Le siège de Rome et l'Orient (448-536). Étude géo-ecclesiologique
-    [[http://zotero.org/avs/items/96CDU8WP]]
+   - Scholars of Byzantium
+   [[https://api.zotero.org/users/7164/items/CTKQA9G5]]
+   - Scriptoria bizantini. Risultati e prospettive della ricerca
+   [[https://api.zotero.org/users/7164/items/Z8F7UIGE]]
+   - 'We Gentiles': Ethnicity and Identity in Justin Martyr
+   [[https://api.zotero.org/users/7164/items/P8PK96IK]]
+   - Gifts Bearing Greekness: Epistles as Cultural Capital in Fourth-Century Cappadocia
+   [[https://api.zotero.org/users/7164/items/JV5CCIMJ]]
+   - The Palestinian Earthquake of May 363 in Philostorgius, the Syriac Chronicon miscellaneum, …
+   [[https://api.zotero.org/users/7164/items/33Q7SZIB]]
 
 
 

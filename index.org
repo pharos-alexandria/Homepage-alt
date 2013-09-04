@@ -10,7 +10,7 @@
 <h2>Notizen und Fundstücke aus Forschung und Lehre</h2>
 #+END_HTML
 
-Hier schreibt [[#Vita][Annette
+Kurze Notizen und Fundstücke von [[#Vita][Annette
 von Stockhausen]] über Patristik, Handschriften und andere Dinge, die
 im Fokus von Forschung und Lehre stehen.
 
@@ -18,53 +18,13 @@ im Fokus von Forschung und Lehre stehen.
   :PROPERTIES:
   :custom_id: Artikel
   :END:
-*** Neue Lesezeichen
-    :PROPERTIES:
-    :HTML_CONTAINER_CLASS: rss-links
-    :END:
-  :FEEDSTATUS:
-((nil t "d5ba9a5f0e84e5c6edb06e24a713ac99e823eebd")
- (nil t "0ee7526261e5e4db1fb360945bdab5dfe6ee1605")
- (nil t "a95fe3265ffd7d93cc7a59645d5a63754f8e74ac")
- (nil t "57cd801abc3de92426998208ab0aef151d448e8a")
- (nil t "c6612ef0f2cd1e85df25f16ff25b5d6b90d99143"))
-  :END:
-   - Oxford Bibliographies - Your Best Research Starts Here
-   [[http://www.oxfordbibliographies.com/]]
-   - Lexica Latina et Graeca
-   [[http://syntax.t15.org/lexica/]]
-   - PerseusCatalog
-   [[http://catalog.perseus.org/]]
-   - Die Kölner Tura-Papyri
-   [[http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Turapap/]]
-   - Der Mani-Kodex
-   [[http://www.uni-koeln.de/phil-fak/ifa/NRWakademie/papyrologie/Manikodex/mani.html]]
 
-*** Zuletzt bibliographiert
-    :PROPERTIES:
-    :HTML_CONTAINER_CLASS: rss-rechts
-    :END:
-  :FEEDSTATUS:
-(("http://zotero.org/avs/items/33Q7SZIB" t "44695ed03ace061a3e5a2720c5bb48a8843f7063")
- ("http://zotero.org/avs/items/JV5CCIMJ" t "79a9fb6b33706277ae47ef37cb1de9736b144485")
- ("http://zotero.org/avs/items/P8PK96IK" t "4a6d70ffde3d63dee91904ba475d8c0b83adf8b3")
- ("http://zotero.org/avs/items/Z8F7UIGE" t "27c2f4be8b734d6bdf0be0e877df32eaa335c77e")
- ("http://zotero.org/avs/items/CTKQA9G5" t "5669d65e60b10b59d040c320d046b0793e3c63e4"))
-  :END:
-   - Scholars of Byzantium
-   [[https://api.zotero.org/users/7164/items/CTKQA9G5]]
-   - Scriptoria bizantini. Risultati e prospettive della ricerca
-   [[https://api.zotero.org/users/7164/items/Z8F7UIGE]]
-   - 'We Gentiles': Ethnicity and Identity in Justin Martyr
-   [[https://api.zotero.org/users/7164/items/P8PK96IK]]
-   - Gifts Bearing Greekness: Epistles as Cultural Capital in Fourth-Century Cappadocia
-   [[https://api.zotero.org/users/7164/items/JV5CCIMJ]]
-   - The Palestinian Earthquake of May 363 in Philostorgius, the Syriac Chronicon miscellaneum, …
-   [[https://api.zotero.org/users/7164/items/33Q7SZIB]]
-
-
-
-
+#+HTML: <div class="rss-rechts">
+#+BEGIN_HTML
+<a class="twitter-timeline" href="https://twitter.com/Stocki_" data-widget-id="371588445447012353">Tweets von @Stocki_</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+#+END_HTML
+#+HTML: </div>
 
 ** [[file:Blog/2013-03-28.org][28.03.2013 | Karte der Teilnehmer an der Synode von Serdika (342)]]
 ** [[file:Blog/2012-11-08.org][08.11.2012 | Weiterer Artikel im Zuge der Selbstarchivierung online]]
@@ -163,6 +123,7 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
   * Stockhausen, A. von, Quelle. III. Kirchengeschichtlich, in: Lexikon der Bibelhermeneutik, hg. v. O. Wischmeyer, Berlin/New York 2009, 473 f.
 
 ** Rezensionen
+  * Fürst, Alfons (Hrsg.), Origenes und sein Erbe in Orient und Okzident (Adamantiana, Band 1). Münster: Aschendorff 2011, in: Archiv für Kulturgeschichte (abgegeben).
   * Erich Lamberz, Acta Conciliorum Oecumenicorum II, 3, 1, Berlin/New York 2008, in: Zeitschrift für antikes Christentum (abgegeben).
   * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1992060/Sara_Parvis_Marcellus_of_Ancyra_and_the_Lost_Years_of_the_Arian_Controversy_325_-_345._Oxford_Early_Christian_Studies._Oxford_u._a._Oxford_University_Press_2006_Review_._Byzantinische_Zeitschrift_102_2009_807-809][Sara Parvis, Marcellus of Ancyra and the Lost Years of the Arian Controversy 325–345. Oxford Early Christian Studies. Oxford, Oxford University Press 2006, in: Byzantinische Zeitschrift 102 (2009) 803–805.]]
   * [[http://uni-erlangen.academia.edu/AnnettevonStockhausen/Papers/1992078/Nicephore_Blemmydes_OEuvres_theologiques._Tome_1._Introduction_texte_critique_traduction_et_notes_par_M._Stavrou._Paris_Cerf_2007_Review_._Theologische_Literaturzeitung_134_2009_318-319][Nicéphore Blemmydès: Œuvres théologiques. Tome 1. Introduction, texte critique, traduction et notes par M. Stavrou. Paris: Cerf 2007, in: Theologische Literaturzeitung 134 (2009) 318 f.]]

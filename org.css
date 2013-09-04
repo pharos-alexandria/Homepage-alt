@@ -80,13 +80,13 @@ h4 {
 *.rss-links {
     font-size: 65%;
     float: left;
-    width: 45%;
+    width: 100%;
 }
 
 *.rss-rechts {
     font-size: 65%;
-    float: left;
-    width: 55%;
+    float: right;
+    width: 45%;
 }
 
 .outline-text-3 p {

@@ -69,8 +69,8 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
   :END:
 
 ** Monographien
-  * [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-5.html][Brennecke, H. C./U. Heil/Ch. Müller/A. von Stockhausen, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 5: Bis zum Tomus Damasi, Berlin/Boston 2014 (in Vorbereitung).]] 
-  * [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-4.html][Brennecke, H. C./U. Heil/Ch. Müller/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/Boston 2014 (in Vorbereitung).]] 
+  * [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-5.html][Brennecke, H. C./A. von Stockhausen/U. Heil, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 5: Bis zum Vorabend der Synode von Konstantinopel (381), Berlin/Boston 2015 (in Vorbereitung).]] 
+  * [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-4.html][Brennecke, H. C./A. von Stockhausen/Ch. Müller/U. Heil/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 4: Bis zur Synode von Alexandrien (362), Berlin/Boston 2014.]] 
   * [[http://dx.doi.org/10.1515/9783110927351][Brennecke, H. C./U. Heil/A. von Stockhausen/A. Wintjes, Athanasius Werke. Band 3 / 1. Teil: Dokumente zur Geschichte des arianischen Streites. Lieferung 3: Bis zur Ekthesis makrostichos, Berlin/New York 2007.]]
   * [[http://dx.doi.org/10.1515/9783110924046][Brennecke, H. C./U. Heil/A. von Stockhausen, Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum, Berlin/New York 2006.]]
   * Stockhausen, A. von, Athanasius von Alexandrien. Epistula ad Afros. Einleitung, Kommentar und Übersetzung (Patristische Texte und Studien 56), Berlin/New York 2002.
@@ -141,6 +141,10 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
   :CUSTOM_ID: Lehre
   :END:
 
+** Wintersemester 2014/15
+   - Proseminar: Die Synode von Nizäa
+   - Übung: Die Anfänge der Kirchengeschichtsschreibung (Euseb von Caesarea)
+   - Übung: Lektüre Eusebs Kirchengeschichte
 ** Sommersemester 2014
    - Vorlesung: Kirchengeschichte im Überblick
    - Proseminar: »In den Fußstapfen des Herrn wandeln« – Egerias Reise zu den biblischen Stätten

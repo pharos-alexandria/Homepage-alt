@@ -59,9 +59,11 @@ Oktober 2007–September 2008 Junior Fellow am [[http://www.wiko-greifswald.de/]
 
 Oktober 2008 Wissenschaftliche Mitarbeiterin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] und am DFG-Projekt [[http://www.athanasius.theologie.uni-erlangen.de][»Edition Athanasius Werke«]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
 
-Seit November 2008 Assistentin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
+November 2008–April 2015 Assistentin am [[http://www.theologie.uni-erlangen.de/lehrstuhl-fuer-kirchengeschichte-i.html][Lehrstuhl Kirchengeschichte I]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
 
 April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goettingen.de/de/kirchengeschichte/55217.html][Kirchengeschichte (Patristik) an der Georg-August-Universität Göttingen]]
+
+Seit Mai 2015 Wissenschaftliche Mitarbeiterin am Thyssen-Projekt [[http://www.athanasius.theologie.uni-erlangen.de][»Edition Athanasius Werke«]] an der [[http://www.fau.de][Friedrich-Alexander-Universität Erlangen-Nürnberg]]
 
 * Publikationen
   :PROPERTIES:
@@ -141,6 +143,8 @@ April–September 2010 Vertretung des Lehrstuhles für [[http://www.uni-goetting
   :CUSTOM_ID: Lehre
   :END:
 
+** Sommersemester 2015
+   - Vorlesung: Kirchengeschichte im Überblick
 ** Wintersemester 2014/15
    - Proseminar: Die Synode von Nizäa
    - Übung: Die Anfänge der Kirchengeschichtsschreibung (Euseb von Caesarea)

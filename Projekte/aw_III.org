@@ -10,7 +10,7 @@
 <h2>Athanasius Werke. Dritter Band: Dokumente zur Geschichte des arianischen Streites</h2>
 <h3>    (gefördert durch die <a href="http://www.dfg.de">Deutsche Forschungsgemeinschaft</a>)</h3>
 #+END_HTML
-Informationen zu den geplanten Lieferungen:
+Informationen zu den erschienenen und geplanten Lieferungen:
 - [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-3.html][Athanasius Werke III 3: Bis zur Ekthesis Makrostichos (zusammen mit H.C. Brennecke, U. Heil und A. Wintjes)]]
 - [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-4.html][Athanasius Werke III 4: Bis zur Synode von Alexandrien (362) (zusammen mit H.C. Brennecke, U. Heil, Ch. Müller und A. Wintjes)]]
 - [[http://www.athanasius.theologie.uni-erlangen.de/aw-III-5.html][Athanasius Werke III 5: Bis zum Tomus Damasi (382) (zusammen mit H.C. Brennecke, U. Heil und Ch. Müller)]]
